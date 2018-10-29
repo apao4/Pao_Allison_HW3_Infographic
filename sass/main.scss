@@ -4,3 +4,11 @@
 @import 'modules/ways';
 @import 'modules/marinelife';
 @import 'modules/header';
+
+.hide {
+        visibility: hidden;
+    }
+    
+    .see {
+      visibility: visible !important;
+    }

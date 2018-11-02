@@ -1,27 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href='css/main.css' rel="stylesheet">
-    <link href='css/animate.css' rel="stylesheet">
-
-	<script src="js/noframework.waypoints.min.js"></script>
-    <script src="js/mainwaypoint.js"></script>
-	<script src="js/counter.js"></script>
-
-    <title>The Plastic Ocean</title>
-</head>
-<body>
-    <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1280 13998.5" style="enable-background:new 0 0 1280 13998.5;" xml:space="preserve">
 <style type="text/css">
-	.st0-p{stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st1-p{fill:#FFFFFF;}
-	.st2-p{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
 	.st0{fill:#2E3192;}
 	.st1{display:none;}
 	.st2{display:inline;fill:#FFFFFF;}
@@ -29,7 +10,7 @@
 	.st4{font-size:50px;}
 	.st5{font-size:100px;}
 	.st6{font-size:85px;}
-	.st7{fill:url(#XMLID_127_);}
+	.st7{fill:url(#XMLID_272_);}
 	.st8{fill:#A6A9D5;}
 	.st9{fill:#FBB040;}
 	.st10{fill:#77B946;}
@@ -45,7 +26,7 @@
 	.st20{fill:#00A651;}
 	.st21{fill:none;}
 	.st22{font-family:'Avenir-Roman';}
-	.st23{font-size:18px;}
+	.st23{font-size:24px;}
 	.st24{font-family:'Avenir-Black';}
 	.st25{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
 	.st26{fill:#F4E1A5;}
@@ -63,31 +44,39 @@
 	.st38{letter-spacing:4;}
 	.st39{font-size:80px;}
 	.st40{letter-spacing:8;}
-	.st41{font-size:24px;}
-	.st42{fill:#A3DDF3;}
-	.st43{fill:#8DC63F;}
-	.st44{fill:#006838;}
-	.st45{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
-	.st46{font-family:'Avenir-Medium';}
-	.st47{letter-spacing:1;}
-	.st48{fill:#00A79D;}
-	.st49{fill:#FFDE94;}
-	.st50{fill:#21409A;}
-	.st51{fill:#00AEEF;}
-	.st52{letter-spacing:2;}
-	.st53{fill:#E6E7E8;}
-	.st54{font-size:28px;}
-	.st55{font-size:30px;}
-	.st56{letter-spacing:3;}
-	.st57{fill:#754C29;}
-	.st58{fill:#009444;}
-	.st59{letter-spacing:16;}
-	.st60{fill:#054F9C;}
-	.st61{fill:#1C75BC;}
-	.st62{fill:#AFD0D8;}
-	.st63{fill:#7F3F98;}
-	.st64{fill:#ED1C24;}
-	.st65{font-size:25px;}
+	.st41{fill:#A3DDF3;}
+	.st42{font-family:'Avenir-Medium';}
+	.st43{letter-spacing:2;}
+	.st44{display:none;fill:#FFFFFF;}
+	.st45{fill:#00A79D;}
+	.st46{fill:#FFDE94;}
+	.st47{fill:#21409A;}
+	.st48{fill:#00AEEF;}
+	.st49{font-size:18px;}
+	.st50{letter-spacing:1;}
+	.st51{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st52{fill:#8DC63F;}
+	.st53{fill:#006838;}
+	.st54{stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st55{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st56{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st57{font-family:'Avenir-Heavy';}
+	.st58{letter-spacing:30;}
+	.st59{fill:#1C75BC;}
+	.st60{fill:none;stroke:#000000;stroke-width:12;stroke-miterlimit:10;}
+	.st61{font-size:35px;}
+	.st62{letter-spacing:3;}
+	.st63{fill:#E6E7E8;}
+	.st64{font-size:30px;}
+	.st65{fill:#754C29;}
+	.st66{fill:#009444;}
+	.st67{letter-spacing:16;}
+	.st68{fill:#054F9C;}
+	.st69{font-size:20px;}
+	.st70{fill:#AFD0D8;}
+	.st71{fill:#7F3F98;}
+	.st72{fill:#ED1C24;}
+	.st73{font-size:25px;}
 </style>
 <g id="header">
 	<g id="title">
@@ -95,8 +84,8 @@
 			c-79.2,31.1-153.4-1.2-153.4-1.2s-67.6-38.6-163.3,0s-155.1-0.2-155.1-0.2s-72.6-46.2-165,0.2s-165-1.8-165-1.8
 			s-70.9-35.8-158.4,1.5c0,0-44.5,26.9-79.2,20.4V552.9h1283.4V893.2z"/>
 		<text id="XMLID_60_" transform="matrix(1 0 0 1 70.9805 13054.748)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">The Great</tspan><tspan x="272.3" y="0" class="st2 st3 st5"> </tspan><tspan x="0" y="102" class="st2 st3 st6">Pacific Garbage Patch</tspan></text>
-	
-	<linearGradient id="XMLID_127_" gradientUnits="userSpaceOnUse" x1="639.4802" y1="-1.067565e-08" x2="639.4802" y2="800">
+	</g>
+	<linearGradient id="XMLID_272_" gradientUnits="userSpaceOnUse" x1="639.4802" y1="-1.067565e-08" x2="639.4802" y2="800">
 		<stop  offset="0" style="stop-color:#A3DDF3"/>
 		<stop  offset="1" style="stop-color:#2E3192"/>
 	</linearGradient>
@@ -207,11 +196,10 @@
 	<path id="XMLID_10_" class="st12" d="M279.7,164.9l-32.1,11.8c0,0-4.1-1.1-6.1,7.2c-2,8.4-29,102.2-29,102.2s-3.7,0.3-3.7-2.2
 		l30.4-105c0,0,0.1-3.6,5-5.4s33.9-12.5,33.9-12.5S279.7,162.7,279.7,164.9z"/>
 </g>
-</g>
 <g id="gpgp">
-	<path id="XMLID_210_" class="st18" d="M1279,1306.6c0,0-31.8,3.4-70.7-15.6c-38.9-19-98.4-32.6-172.8,0s-153-1.2-153-1.2
+	<path id="XMLID_210_" class="st18" d="M1286.8,1306.6c0,0-31.8,3.4-70.7-15.6c-38.9-19-98.4-32.6-172.8,0s-153-1.2-153-1.2
 		s-64.5-37.2-162.9,0s-154.7-0.2-154.7-0.2s-60.3-45.6-164.5,0.2s-164.5-1.8-164.5-1.8s-73.1-41.1-146.8-2.9
-		C15.4,1323.4-1,1309.9-1,1309.9v2244.8c0,0,34.4,7.9,90.1-24.8s129.4-6.9,146.8,2.9c17.4,9.7,74.5,41.2,164.5,1.8
+		c-73.7,38.2-90.1,24.8-90.1,24.8v2244.8c0,0,34.4,7.9,90.1-24.8s129.4-6.9,146.8,2.9c17.4,9.7,74.5,41.2,164.5,1.8
 		c90.1-39.5,139.8-10.5,164.5-0.2c24.8,10.4,69.3,31.3,154.7,0.2c85.3-31.1,114.6-12.8,162.9,0c48.3,12.8,62.9,31.5,153,1.2
 		c90.1-30.3,113.8-26.1,172.8,0c58.9,26.1,70.7,15.6,70.7,15.6V1306.6z"/>
 	<g id="map_land_2_">
@@ -235,7 +223,6 @@
 		<polygon id="XMLID_204_" class="st0" points="824,2026.2 824,2038.2 865,2026.2 851.1,2012.3 		"/>
 		<polygon id="XMLID_203_" class="st0" points="806.3,2038.2 806.3,2046.6 775.6,2057.7 		"/>
 	</g>
-	<g id="gpgpSpirals">
 	<g id="eastern">
 		<g id="XMLID_193_">
 			<g id="XMLID_195_">
@@ -262,7 +249,6 @@
 			</g>
 		</g>
 	</g>
-	
 	<g id="western">
 		<g id="XMLID_179_">
 			<g id="XMLID_181_">
@@ -288,11 +274,10 @@
 			</g>
 		</g>
 	</g>
-</g>
-	<rect id="XMLID_171_" x="95.6" y="1441.4" class="st21" width="603" height="260"/>
-	<text id="charles" transform="matrix(1 0 0 1 95.5848 1455.002)"><tspan x="0" y="0" class="st22 st23">In</tspan><tspan x="14.7" y="0" class="st24 st23"> 1997</tspan><tspan x="62.6" y="0" class="st22 st23">, Charles J. Moore, oceanographer and boat captain, and his crew </tspan><tspan x="0" y="37" class="st22 st23">made a discovery that would put the omnipresence of pollution into a new </tspan><tspan x="0" y="74" class="st22 st23">perspective.  As Moore and crew were returning to California, they discov</tspan><tspan x="596.3" y="74" class="st22 st23">-</tspan><tspan x="0" y="111" class="st22 st23">ered a large mass of trash floating in the </tspan><tspan x="331.2" y="111" class="st24 st23">North Pacific Gyre, the Great </tspan><tspan x="0" y="148" class="st24 st23">Pacific Garbage Patch (GPGP)</tspan><tspan x="253.4" y="148" class="st22 st23">.  He then began bringing awareness to </tspan><tspan x="0" y="185" class="st22 st23">the mass by writing extensive articles on the garbage patch as well as the </tspan><tspan x="0" y="222" class="st22 st23">effects it had on sea life.  </tspan></text>
-	<rect id="XMLID_165_" x="474" y="2195.3" class="st21" width="312.2" height="180.3"/>
-	<text id="collection" transform="matrix(1 0 0 1 540.7072 2208.897)"><tspan x="0" y="0" class="st22 st23">There are actually two </tspan><tspan x="-62" y="37" class="st22 st23">Pacific garbage patches.  The separa</tspan><tspan x="234.8" y="37" class="st22 st23">-</tspan><tspan x="-56.5" y="74" class="st22 st23">tion is caused by the water currents.  </tspan><tspan x="-66.3" y="111" class="st22 st23">Each is full of litter and plastic material </tspan><tspan x="-15.8" y="148" class="st22 st23">that is not biodegradable.</tspan></text>
+	<rect id="XMLID_171_" x="95.6" y="1393.8" class="st21" width="603" height="344.2"/>
+	<text id="XMLID_170_" transform="matrix(1 0 0 1 95.5848 1411.9702)"><tspan x="0" y="0" class="st22 st23">In</tspan><tspan x="19.6" y="0" class="st24 st23"> 1997</tspan><tspan x="83.5" y="0" class="st22 st23">, Charles J. Moore, oceanographer and boat </tspan><tspan x="0" y="37" class="st22 st23">captain, and his crew made a discovery that would put </tspan><tspan x="0" y="74" class="st22 st23">the omnipresence of pollution into a new perspective.  </tspan><tspan x="0" y="111" class="st22 st23">As Moore and crew were returning to California, they </tspan><tspan x="0" y="148" class="st22 st23">discovered a large mass of trash floating in the </tspan><tspan x="509.6" y="148" class="st24 st23">North </tspan><tspan x="0" y="185" class="st24 st23">Pacific Gyre, the Great Pacific Garbage Patch </tspan><tspan x="0" y="222" class="st24 st23">(GPGP)</tspan><tspan x="82.7" y="222" class="st22 st23">.  He then began bringing awareness to the </tspan><tspan x="0" y="259" class="st22 st23">mass by writing extensive articles on the garbage patch </tspan><tspan x="0" y="296" class="st22 st23">as well as the effects it had on sea life.  </tspan></text>
+	<rect id="XMLID_165_" x="474" y="2161.9" class="st21" width="312.2" height="248.6"/>
+	<text id="XMLID_164_" transform="matrix(1 0 0 1 510.9113 2180.0522)"><tspan x="0" y="0" class="st22 st23">There are actually two </tspan><tspan x="-12.6" y="37" class="st22 st23">Pacific garbage patches.  </tspan><tspan x="-30" y="74" class="st22 st23">The separation is caused by </tspan><tspan x="-26" y="111" class="st22 st23">the water currents.  Each is </tspan><tspan x="-32.2" y="148" class="st22 st23">full of litter and plastic - ma</tspan><tspan x="262.5" y="148" class="st22 st23">-</tspan><tspan x="-29.1" y="185" class="st22 st23">terial that is not biodegrad</tspan><tspan x="259.5" y="185" class="st22 st23">-</tspan><tspan x="92.7" y="222" class="st22 st23">able.</tspan></text>
 	<g id="topArrow">
 		<path id="topaArrow" class="st25" d="M456.2,2132.6c0,0,158.9-79.3,347.9,0"/>
 		<line id="XMLID_160_" class="st25" x1="805" y1="2131.6" x2="791.9" y2="2135.4"/>
@@ -303,19 +288,19 @@
 		<line id="XMLID_159_" class="st25" x1="459.5" y1="2425.8" x2="456.1" y2="2410.8"/>
 		<line id="XMLID_158_" class="st25" x1="455.1" y1="2411.8" x2="468.3" y2="2408"/>
 	</g>
-	<g id="charlesMoore" class="hide">
+	<g id="charlesMoore">
 		<g id="hand">
 			<path id="XMLID_226_" class="st25" d="M948.4,1568.3c0,0-8.6,8.5-37.7-2.8c-27.2-10.6-15.1-42-15.1-42"/>
-			<circle id="XMLID_227_" class="st26 animated shake" cx="898.3" cy="1518.7" r="8.2"/>
-			<path id="XMLID_228_" class="st26 animated shake" d="M887.3,1507.9c0,0-3.4,0.5,5.6,12h2.4v-1.5c0,0-6.1-10.1-7.1-10.6
+			<circle id="XMLID_227_" class="st26" cx="898.3" cy="1518.7" r="8.2"/>
+			<path id="XMLID_228_" class="st26" d="M887.3,1507.9c0,0-3.4,0.5,5.6,12h2.4v-1.5c0,0-6.1-10.1-7.1-10.6
 				C887.4,1507.5,887.3,1507.9,887.3,1507.9z"/>
-			<path id="XMLID_229_" class="st26 animated shake" d="M892.2,1499.8c0,0-3.3-0.7,1.2,13.2l2.3,0.8l0.5-1.4c0,0-2.3-11.6-3.1-12.4
+			<path id="XMLID_229_" class="st26" d="M892.2,1499.8c0,0-3.3-0.7,1.2,13.2l2.3,0.8l0.5-1.4c0,0-2.3-11.6-3.1-12.4
 				C892.4,1499.4,892.2,1499.8,892.2,1499.8z"/>
-			<path id="XMLID_232_" class="st26 animated shake" d="M902.2,1498.9c0,0,3.3-0.7-1.2,13.2l-2.3,0.8l-0.5-1.4c0,0,2.3-11.6,3.1-12.4
+			<path id="XMLID_232_" class="st26" d="M902.2,1498.9c0,0,3.3-0.7-1.2,13.2l-2.3,0.8l-0.5-1.4c0,0,2.3-11.6,3.1-12.4
 				C902,1498.5,902.2,1498.9,902.2,1498.9z"/>
-			<path id="XMLID_233_" class="st26 animated shake" d="M910.3,1505c0,0,3.3,0.9-7.1,11.2l-2.4-0.3l0.2-1.4c0,0,7.3-9.3,8.4-9.6
+			<path id="XMLID_233_" class="st26" d="M910.3,1505c0,0,3.3,0.9-7.1,11.2l-2.4-0.3l0.2-1.4c0,0,7.3-9.3,8.4-9.6
 				C910.3,1504.6,910.3,1505,910.3,1505z"/>
-			<path id="XMLID_234_" class="st26 animated shake" d="M913.6,1513.1c0,0,4.1,0.8-7.9,8.6l-3-0.3l0.1-1.1c0,0,8.4-7.1,9.6-7.3
+			<path id="XMLID_234_" class="st26" d="M913.6,1513.1c0,0,4.1,0.8-7.9,8.6l-3-0.3l0.1-1.1c0,0,8.4-7.1,9.6-7.3
 				C913.6,1512.8,913.6,1513.1,913.6,1513.1z"/>
 		</g>
 		<ellipse id="sailerBody" class="st0" cx="992.4" cy="1581.3" rx="48.8" ry="64.5"/>
@@ -1756,7 +1741,7 @@ SUVORK5CYII=" transform="matrix(0.6503 0 0 0.6503 430.7932 2920.158)">
 			1084.3,3473.2 1076.3,3488.2 1064.3,3473.2 1044.4,3471.2 1033.4,3465.2 1014.4,3455.2 1009.4,3432.5 999.4,3422.3 999.4,3395.4 
 			971.5,3367.4 958.5,3330.5 927.6,3290.6 899.6,3282.6 894.6,3296.6 881.7,3292.6 881.7,3315.5 866.7,3331.5 813.8,3298.5 
 			804.8,3273.6 809.8,3256.6 791.9,3238.7 779.9,3238.7 761.9,3221.2 752.9,3216.7 744.9,3198.7 732.6,3194.8 732.6,3180.8 
-			871.7,3180.8 871.7,2968.2"/>
+			871.7,3180.8 871.7,2968.2 		"/>
 		<rect id="XMLID_55_" x="902.8" y="3189.2" class="st21" width="255.5" height="78"/>
 		<text id="XMLID_54_" transform="matrix(1 0 0 1 981.8726 3240.2271)" class="st12 st3 st35 st36">x2</text>
 		<rect id="XMLID_36_" x="0" y="984.4" class="st9" width="1280" height="209.1"/>
@@ -1764,63 +1749,33 @@ SUVORK5CYII=" transform="matrix(0.6503 0 0 0.6503 430.7932 2920.158)">
 		<rect id="XMLID_39_" x="0" y="3643.8" class="st9" width="1280" height="209.1"/>
 		<text id="XMLID_38_" transform="matrix(1 0 0 1 412.4891 3730.8025)"><tspan x="0" y="0" class="st24 st37 st38">THE EFFECTS ON</tspan><tspan x="-77" y="86" class="st12 st15 st39 st40">MARINE LIFE</tspan></text>
 		<rect id="XMLID_53_" x="169.3" y="3155.6" class="st21" width="312.2" height="145.3"/>
-		<text id="XMLID_52_" transform="matrix(1 0 0 1 191.5685 3173.6992)"><tspan x="0" y="0" class="st22 st41">If you thought Texas was </tspan><tspan x="-6.8" y="37" class="st22 st41">big, the GPGP is DOUBLE </tspan><tspan x="-10" y="74" class="st22 st41">the size of the entire state!</tspan></text>
+		<text id="XMLID_52_" transform="matrix(1 0 0 1 191.5685 3173.6992)"><tspan x="0" y="0" class="st22 st23">If you thought Texas was </tspan><tspan x="-6.8" y="37" class="st22 st23">big, the GPGP is DOUBLE </tspan><tspan x="-10" y="74" class="st22 st23">the size of the entire state!</tspan></text>
 	</g>
 	<rect id="XMLID_246_" x="294" y="2532.7" class="st21" width="705.6" height="185.5"/>
-	<text id="two-islands" transform="matrix(1 0 0 1 300.2702 2546.2871)"><tspan x="0" y="0" class="st22 st23">The two “islands” formed as a collection of debris found in the water began following </tspan><tspan x="-3.7" y="37" class="st22 st23">the water currents.  These islands are not secure masses of land rather they are circling </tspan><tspan x="-3.2" y="74" class="st22 st23">surfaces of garbage.  As the water currents follower their paths, more and more debris </tspan><tspan x="202.9" y="111" class="st22 st23">is gathered and added to the mass.  </tspan></text>
+	<text id="XMLID_235_" transform="matrix(1 0 0 1 308.8205 2550.8223)"><tspan x="0" y="0" class="st22 st23">The two “islands” formed as a collection of debris found in the </tspan><tspan x="-7.5" y="37" class="st22 st23">water began following the water currents.  These islands are not </tspan><tspan x="9.6" y="74" class="st22 st23">secure masses of land rather they are circling surfaces of gar</tspan><tspan x="658.4" y="74" class="st22 st23">-</tspan><tspan x="-12.5" y="111" class="st22 st23">bage.  As the water currents follower their paths, more and more </tspan><tspan x="109.7" y="148" class="st22 st23">debris is gathered and added to the mass.  </tspan></text>
 </g>
 <g id="marineLife">
-	<path id="background_2_" class="st42" d="M1281.2,3957.2c0,0-31.9,3.4-70.9-15.6c-39-19-98.6-32.6-173.1,0
+	<path id="background_2_" class="st41" d="M1281.2,3957.2c0,0-31.9,3.4-70.9-15.6c-39-19-98.6-32.6-173.1,0
 		c-74.5,32.6-153.3-1.2-153.3-1.2s-64.6-37.2-163.2,0s-155-0.2-155-0.2s-60.4-45.6-164.8,0.2s-164.8-1.8-164.8-1.8
 		s-73.3-41.1-147.1-2.9s-90.3,24.8-90.3,24.8v2288.6c0,0,34.4,7.9,90.3-24.8s129.6-6.9,147.1,2.9s74.6,41.2,164.8,1.8
 		c90.2-39.5,140-10.5,164.8-0.2c24.8,10.4,69.5,31.3,155,0.2c85.5-31.1,114.8-12.8,163.2,0c48.4,12.8,63,31.5,153.3,1.2
 		c90.3-30.3,114-26.1,173.1,0c59,26.1,70.9,15.6,70.9,15.6V3957.2z"/>
 	<g id="turtle">
-		<path id="XMLID_125_" class="st43" d="M302.7,4228c0,0,0.4-35.5-10.4-51.1c-10.8-15.6-30.2-37.2-62-21.1
-			c-31.8,16-47.6,27.9-59.6,42.2c-11.9,14.3-37.8,51-28.1,60.4c0,0,6.4,20.6,36.6-2.4s40-38.4,56.9-43.6c17-5.2,26.8,11.3,26.8,11.3
-			L302.7,4228z"/>
-		<path id="XMLID_124_" class="st43" d="M192.2,4365.2l-38.6-8.4c0,0-22.4,21.8-18.7,46.8s29,36.6,29,36.6l37.4-12.1L192.2,4365.2z"
-			/>
-		<path id="XMLID_122_" class="st43" d="M385.5,4283.8c0,0,32.6-14.1,51.1-10.2c18.5,3.9,46,13.4,43.5,49s-7.3,54.7-15.8,71.3
-			c-8.5,16.5-32.4,54.6-44.8,49.3c0,0-21.4,2.1-12-34.7c9.5-36.8,19.9-51.7,18.1-69.4c-1.8-17.7-20.8-20.3-20.8-20.3L385.5,4283.8z"
-			/>
-		<path id="XMLID_100_" class="st43" d="M259.1,4450.2l-1.3,39.5c0,0,25.5,18.1,49.5,9.9s30.7-35.2,30.7-35.2l-18.7-34.6
-			L259.1,4450.2z"/>
-		<path id="XMLID_99_" class="st44" d="M377.1,4189.1c-26.8-15.6-24.1-9-40.4-15.8c-16.2-6.8-64.1-5.9-84.4,17.5
-			c-14.9,17.2-19.7,42-47.6,82.7c-27.8,40.7-21.2,102.7-23.7,116.2c-2.4,13.5,13.9,49.4,13.9,49.4l21.5,10.8c0.8-12.7,1-86.1,1-86.1
-			c47-6.5,82.2,35.4,82.2,35.4c-15.3,35.2-76.8,53.9-76.8,53.9l19.2,9.7c0,0,33.5,8.2,60.9-16.6c24.3-22,52.1-34.4,75.8-59.7
-			c23.7-25.3,54.1-81.1,54.1-81.1c29.5-51.5-19.5-97.1-23.9-99c-1.7-0.8-3.2-1.9-4.9-2.7C400.8,4202.1,397.3,4200.9,377.1,4189.1z"
-			/>
-		<path id="XMLID_97_" class="st43" d="M408.9,4094.6c0,0-22.3-2.9-25.3,0.9c-3.1,3.8-53.9,94.2-53.9,94.2s-5.2,4.4,7.7,14.4
-			c12.9,9.9,38.3,23,50.1,28.7c11.8,5.7,15.7-5.7,15.7-5.7l50-87.4c1.3-2.3,1.2-5.2-0.1-8.4c-2.1-4.8-5.9-11.4-12.4-18.7l7.4-13.6
-			l-31.4-18L408.9,4094.6z"/>
-		<circle id="XMLID_96_" class="st45" cx="283.3" cy="4228.4" r="18.4"/>
-		<circle id="XMLID_92_" class="st45" cx="316.6" cy="4247.9" r="18.4"/>
-		<circle id="XMLID_69_" class="st45" cx="264.7" cy="4260.2" r="18.4"/>
-		<circle id="XMLID_68_" class="st45" cx="298" cy="4279.7" r="18.4"/>
-		<circle id="XMLID_66_" class="st45" cx="245.1" cy="4293.9" r="18.4"/>
-		<circle id="XMLID_65_" class="st45" cx="278.4" cy="4313.3" r="18.4"/>
-		<circle id="XMLID_120_" class="st45" cx="360.7" cy="4271.7" r="18.4"/>
-		<circle id="XMLID_119_" class="st45" cx="394" cy="4291.1" r="18.4"/>
-		<circle id="XMLID_118_" class="st45" cx="342.1" cy="4303.5" r="18.4"/>
-		<circle id="XMLID_61_" class="st45" cx="375.4" cy="4322.9" r="18.4"/>
-		<circle id="XMLID_58_" class="st45" cx="322.5" cy="4337.1" r="18.4"/>
-		<circle id="XMLID_56_" class="st45" cx="355.8" cy="4356.6" r="18.4"/>
 	</g>
-	<rect id="XMLID_109_" x="710" y="4067.9" class="st21" width="409.6" height="303.8"/>
-	<text id="XMLID_108_" transform="matrix(1 0 0 1 823.1932 4128.3662)"><tspan x="0" y="0" class="st24 st39 st40">74%</tspan><tspan x="-90.9" y="58" class="st46 st23 st47">Sea turtles near the GPGP have diets </tspan><tspan x="-71.4" y="116" class="st46 st23 st47">that consist of up to 74% plastic.</tspan><tspan x="-96.4" y="174" class="st46 st23 st47">Turtles often eat plastic bags thinking </tspan><tspan x="7" y="232" class="st46 st23 st47">they are jellyfish.</tspan></text>
-	<rect id="XMLID_107_" x="186.5" y="4625.1" class="st21" width="396.3" height="269.1"/>
-	<text id="XMLID_106_" transform="matrix(1 0 0 1 293.0242 4685.5898)"><tspan x="0" y="0" class="st24 st39 st40">71%</tspan><tspan x="-95.9" y="58" class="st46 st23 st47">71% of seabirds have been found with </tspan><tspan x="-18.7" y="116" class="st46 st23 st47">plastic in their bodies.</tspan></text>
-	<path id="bird1" class="st12" d="M1129.7,4565c0,0-44.3,19-56.3,57.6c-12,38.6-13.9,69.6-13.9,69.6s1.3,17.1-19.6,12
+	<rect id="XMLID_109_" x="553.6" y="4067.9" class="st21" width="669.4" height="429.2"/>
+	<text id="XMLID_108_" transform="matrix(1 0 0 1 796.6264 4128.3662)"><tspan x="0" y="0" class="st24 st39 st40">74%</tspan><tspan x="-233.4" y="58" class="st42 st23 st43">Sea turtles near the GPGP have diets that consist </tspan><tspan x="-44.2" y="116" class="st42 st23 st43">of up to 74% plastic.</tspan><tspan x="-217.7" y="174" class="st42 st23 st43">Turtles often eat plastic bags thinking they are </tspan><tspan x="37.3" y="232" class="st42 st23 st43">jellyfish.</tspan></text>
+	<rect id="XMLID_107_" x="65.4" y="4625.1" class="st21" width="669.4" height="269.1"/>
+	<text id="XMLID_106_" transform="matrix(1 0 0 1 308.4634 4685.5889)"><tspan x="0" y="0" class="st24 st39 st40">71%</tspan><tspan x="-222.7" y="58" class="st42 st23 st43">71% of seabirds have been found with plastic in </tspan><tspan x="8.8" y="116" class="st42 st23 st43">their bodies.</tspan></text>
+	<path id="bird1" class="st44" d="M1066.6,4527.1c0,0-44.3,19-56.3,57.6c-12,38.6-13.9,69.6-13.9,69.6s1.3,17.1-19.6,12
 		c0,0-27.8-25.3-59.5-30.4c-31.6-5.1-60.1-12.6-102.5,1.9c0,0,46.9-26.8,95.5-24c6.6,0.4,17.1,1.6,19.7,2.2
-		c10.3,2.3,36.6,12.8,44.7,21.4c0,0,7.1-55.3,29.3-74.9S1106.3,4565,1129.7,4565z"/>
-	<path id="bird2" class="st12" d="M1059.7,4774.4c0,0-22.1,9.5-28.1,28.8c-6,19.3-7,34.8-7,34.8s0.6,8.5-9.8,6
-		c0,0-13.9-12.6-29.7-15.2s-30-6.3-51.2,0.9c0,0,23.4-13.4,47.7-12c3.3,0.2,8.5,0.8,9.9,1.1c5.2,1.2,18.3,6.4,22.3,10.7
-		c0,0,3.6-27.6,14.6-37.4C1039.5,4782.4,1048,4774.4,1059.7,4774.4z"/>
-	<path id="bird3" class="st12" d="M1255.6,4600c0,0-22.1,9.5-28.1,28.8c-6,19.3-7,34.8-7,34.8s0.6,8.5-9.8,6
-		c0,0-13.9-12.6-29.7-15.2s-30-6.3-51.2,0.9c0,0,23.4-13.4,47.7-12c3.3,0.2,8.5,0.8,9.9,1.1c5.2,1.2,18.3,6.4,22.3,10.7
-		c0,0,3.6-27.6,14.6-37.4C1235.4,4607.9,1243.9,4600,1255.6,4600z"/>
-	<path id="blue_wave" class="st48" d="M0,5456.7c0,0,31.3,0,70.9,15.6s94,31.1,173.1,0s153.3,1.2,153.3,1.2s67.6,38.6,163.2,0
+		c10.3,2.3,36.6,12.8,44.7,21.4c0,0,7.1-55.3,29.3-74.9C1026.2,4542.9,1043.2,4527.1,1066.6,4527.1z"/>
+	<path id="bird2" class="st44" d="M940.8,4759.7c0,0-22.1,9.5-28.1,28.8c-6,19.3-7,34.8-7,34.8s0.6,8.5-9.8,6
+		c0,0-13.9-12.6-29.7-15.2c-15.8-2.5-30-6.3-51.2,0.9c0,0,23.4-13.4,47.7-12c3.3,0.2,8.5,0.8,9.9,1.1c5.2,1.2,18.3,6.4,22.3,10.7
+		c0,0,3.6-27.6,14.6-37.4C920.5,4767.6,929.1,4759.7,940.8,4759.7z"/>
+	<path id="bird3" class="st44" d="M1214.6,4646.3c0,0-22.1,9.5-28.1,28.8c-6,19.3-7,34.8-7,34.8s0.6,8.5-9.8,6
+		c0,0-13.9-12.6-29.7-15.2c-15.8-2.5-30-6.3-51.2,0.9c0,0,23.4-13.4,47.7-12c3.3,0.2,8.5,0.8,9.9,1.1c5.2,1.2,18.3,6.4,22.3,10.7
+		c0,0,3.6-27.6,14.6-37.4S1202.9,4646.3,1214.6,4646.3z"/>
+	<path id="blue_wave" class="st45" d="M0,5456.7c0,0,31.3,0,70.9,15.6s94,31.1,173.1,0s153.3,1.2,153.3,1.2s67.6,38.6,163.2,0
 		s155,0.2,155,0.2s72.5,46.2,164.8-0.2s164.8,1.8,164.8,1.8s70.9,35.8,158.2-1.5c0,0,44.5-26.9,79.1-20.4v343.7H0L0,5456.7z"/>
 	<g id="white_wave">
 		<path id="XMLID_87_" class="st12" d="M-3.1,5512.3c0,0,31.3,0,70.9,15.6s94,31.1,173.1,0c79.1-31.1,153.3,1.2,153.3,1.2
@@ -1828,49 +1783,67 @@ SUVORK5CYII=" transform="matrix(0.6503 0 0 0.6503 430.7932 2920.158)">
 			c0,0,44.5-26.9,79.1-20.4v343.7H-3.1L-3.1,5512.3z"/>
 		<text id="XMLID_86_" transform="matrix(-1 0 0 -1 -261.1211 11360.5693)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">The Great</tspan><tspan x="272.3" y="0" class="st2 st3 st5"> </tspan><tspan x="0" y="102" class="st2 st3 st6">Pacific Garbage Patch</tspan></text>
 	</g>
-	<path id="beach" class="st49" d="M0,6342.5c0,0,31.9-3.4,70.9,15.6s98.6,32.6,173.1,0c74.5-32.6,153.3,1.2,153.3,1.2
+	<path id="beach" class="st46" d="M0,6342.5c0,0,31.9-3.4,70.9,15.6s98.6,32.6,173.1,0c74.5-32.6,153.3,1.2,153.3,1.2
 		s64.6,37.2,163.2,0c98.6-37.2,155,0.2,155,0.2s60.4,45.6,164.8-0.2c104.5-45.8,164.8,1.8,164.8,1.8s73.3,41.1,147.1,2.9
 		c73.8-38.2,90.3-24.8,90.3-24.8v-773c0,0-34.4-7.9-90.3,24.8c-55.9,32.7-129.6,6.9-147.1-2.9c-17.5-9.7-74.6-41.2-164.8-1.8
 		s-140,10.5-164.8,0.2c-24.8-10.4-69.5-31.3-155-0.2c-85.5,31.1-114.8,12.8-163.2,0c-48.4-12.8-63-31.5-153.3-1.2
 		c-90.3,30.3-114,26.1-173.1,0C11.8,5559,0,5569.5,0,5569.5L0,6342.5z"/>
 	<g id="whale_2_">
-		<path id="XMLID_80_" class="st50" d="M980.9,6170.4c0,0,79.8,10.8,140.7-35.7c0,0,18.1-14.6,31.1-27.1c0,0,23.5-0.8,21.7,24.9
+		<path id="XMLID_80_" class="st47" d="M980.9,6170.4c0,0,79.8,10.8,140.7-35.7c0,0,18.1-14.6,31.1-27.1c0,0,23.5-0.8,21.7,24.9
 			c0,0,0.9,6.6-7.8,15.5c0,0,34.6,8.9,43.4-22.4s-18.8-48.2-18.8-48.2s-12.5-7.4-18-6.1c0,0,5.8-26.3-2.2-39.6
 			c-8-13.4-16.8-18.9-16.8-18.9s-20.6-11.4-32.5-2.2s-15.7,20.4-15.7,20.4s32,24,21,45.4c-11,21.4-24.2,21.3-24.2,21.3
 			s-37.8,11.6-76.2-39.7c0,0-57.2-87.1-68.6-101.1c-11.9-14.6-57.5-57.8-106.3-65.6c-48.8-7.8-77.4,1.6-96.2,15.5
 			c-17.8,13.1-33.7,29.1-43.4,53.9s-12.6,37-12.6,37l-10.8,15.2c0,0-3.8,7.5,1.8,11.3c5.6,3.8,5.6,3.8,5.6,3.8s20.8,12.7,69.9,21.2
 			c49.2,8.5,77,28,77,28s29.8,17.6,49.4,33.7c19.6,16.1,49,40.5,58.5,45.6S980.9,6170.4,980.9,6170.4z"/>
 		
-			<ellipse id="XMLID_78_" transform="matrix(-0.9469 -0.3214 0.3214 -0.9469 -212.0723 11781.832)" class="st51" cx="866.5" cy="5908.4" rx="11.6" ry="3.9"/>
-		<path id="XMLID_77_" class="st51" d="M980.9,6170.4c0,0-48.1-2.5-101.9-23.3c-53.8-20.8-141.3-58.6-173.3-86.4
+			<ellipse id="XMLID_78_" transform="matrix(-0.9469 -0.3214 0.3214 -0.9469 -212.0723 11781.832)" class="st48" cx="866.5" cy="5908.4" rx="11.6" ry="3.9"/>
+		<path id="XMLID_77_" class="st48" d="M980.9,6170.4c0,0-48.1-2.5-101.9-23.3c-53.8-20.8-141.3-58.6-173.3-86.4
 			c0,0-24.3-15.2-17-23.9s7.4-8.8,7.4-8.8s26.8,13.5,69.9,21.2c26,4.7,47.7,12.5,60.9,18c8,3.3,15.7,7.6,22.8,12.6
 			c12.2,8.6,33.5,23.7,42.7,31.2C905.9,6121.7,962.4,6164.1,980.9,6170.4z"/>
-		<path id="XMLID_76_" class="st50" d="M885.4,6127.4c0,0-9.5,36-23.6,41.8c-14.1,5.8-25.9,3.4-33.9-2.9s-23.4-42.1-19.8-65.2
+		<path id="XMLID_76_" class="st47" d="M885.4,6127.4c0,0-9.5,36-23.6,41.8c-14.1,5.8-25.9,3.4-33.9-2.9s-23.4-42.1-19.8-65.2
 			c0,0,15.4-22.2,38.3-10.1C869.3,6103.2,885.4,6127.4,885.4,6127.4z"/>
 	</g>
 	<text id="XMLID_71_" transform="matrix(1 0 0 1 715.3417 5724.1367)"><tspan x="0" y="0" class="st24 st37 st38">THIS IS A WHALE-Y </tspan><tspan x="129.5" y="70" class="st24 st37 st38">BIG PROBLEM!</tspan></text>
-	<rect id="XMLID_138_" x="54.9" y="5735.4" class="st21" width="463.3" height="474.6"/>
-	<text id="XMLID_139_" transform="matrix(1 0 0 1 54.9084 5753.5718)"><tspan x="0" y="0" class="st46 st41 st52">In January 2017, a 2-ton whale was </tspan><tspan x="0" y="53" class="st46 st41 st52">found beached repeatedly in </tspan><tspan x="0" y="106" class="st46 st41 st52">Norway.</tspan><tspan x="0" y="212" class="st46 st41 st52">Due to the repetition, the whale </tspan><tspan x="0" y="265" class="st46 st41 st52">had to be euthanized to which, </tspan><tspan x="0" y="318" class="st46 st41 st52">upon its autopsy, they discovered </tspan><tspan x="0" y="371" class="st46 st41 st52">that it’s stomach was filled with </tspan><tspan x="0" y="424" class="st46 st41 st52">nothing but plastic bags.  </tspan></text>
+	<rect id="XMLID_138_" x="54.9" y="5724.1" class="st21" width="560.3" height="541.8"/>
+	<text id="XMLID_139_" transform="matrix(1 0 0 1 54.9084 5742.2798)"><tspan x="0" y="0" class="st42 st23 st43">In January 2017, a 2-ton whale was found </tspan><tspan x="0" y="53" class="st42 st23 st43">beached repeatedly in Norway.</tspan><tspan x="0" y="159" class="st42 st23 st43">Due to the repetition, the whale had to be </tspan><tspan x="0" y="212" class="st42 st23 st43">euthanized to which, upon its autopsy, </tspan><tspan x="0" y="265" class="st42 st23 st43">they discovered that it’s stomach was </tspan><tspan x="0" y="318" class="st42 st23 st43">filled with nothing but plastic bags.  </tspan></text>
 	<g id="at_this_rate">
-		<path id="XMLID_105_" class="st53" d="M223.2,5137.5c23.9-10.9,60.7-48,74.8-70.1c19.5-30.7,33-61.1,50.2-99.7
-			c22.7-50.8,88-54.2,108-58.9c3.9-0.9,7.9-1.3,11.8-1.1c20.2,1,76.3-6.6,111.1,58.7c30,56.4,29,121.9,26,154.8
-			c-1.2,12.9-4.3,25.6-9.1,37.7c-11.7,29.4-38.1,90.1-66.6,116.7c-38.3,35.7-148.1,102.9-209.3,120.8s-112.9,38.3-183.7-5.1
-			c-32.2-19.7-48.3-48.3-56.3-73.7c-11.9-37.9-6.6-79.4,15-112.8c9.4-14.6,22.4-28.2,40-35.5C170.1,5155,194.5,5150.5,223.2,5137.5z
-			"/>
-		<path id="XMLID_84_" class="st51" d="M253.6,5149.5c19.7-9,50.1-39.6,61.7-57.9c16.1-25.3,27.2-50.4,41.4-82.2
-			c18.7-41.9,72.6-44.7,89.1-48.6c3.2-0.8,6.5-1.1,9.8-0.9c16.6,0.8,63-5.4,91.7,48.5c24.8,46.5,24,100.5,21.4,127.7
-			c-1,10.7-3.5,21.2-7.5,31.2c-9.6,24.2-31.4,74.3-54.9,96.3c-31.6,29.5-122.2,84.9-172.7,99.7c-50.5,14.7-93.2,31.6-151.6-4.2
-			c-26.5-16.3-39.8-39.9-46.4-60.9c-9.9-31.3-5.4-65.5,12.4-93.1c7.8-12,18.5-23.3,33-29.3C209.8,5163.9,230,5160.3,253.6,5149.5z"
-			/>
-		<path id="XMLID_89_" class="st9" d="M192.3,5247.2c0,0-5.9,8.2-13,8.6s-11-1.4-11-1.4s-5.7-3.2-6.1-4.1c0,0-3.3,3.3-5.1,2.9
-			s-2-2.9-2-2.9s2-2.2,4.6-2.4c0,0-4.5-0.2-4.6-3.2c-0.1-2.9,2.4-2.4,2.4-2.4s3.7,1.5,4.6,2.8c0,0,5.2-7.7,11.6-7.3s10,2.5,10,2.5
-			S190.4,5244.4,192.3,5247.2z"/>
+		<path id="XMLID_56_" class="st9" d="M240.7,5401.8c0,0-17.1,23.9-37.6,24.9s-31.8-4.1-31.8-4.1s-16.4-9.2-17.8-12
+			c0,0-9.6,9.6-14.7,8.5c-5.1-1-5.8-8.3-5.8-8.3s5.8-6.4,13.3-7.1c0,0-13-0.7-13.3-9.2c-0.3-8.5,6.8-6.8,6.8-6.8s10.6,4.4,13.3,8.2
+			c0,0,15-22.2,33.6-21.2s28.9,7.2,28.9,7.2S235.3,5393.6,240.7,5401.8z"/>
+		<path id="XMLID_58_" class="st9" d="M535.3,5391.4c0,0-17.1,23.9-37.6,24.9c-20.5,1-31.8-4.1-31.8-4.1s-16.4-9.2-17.8-12
+			c0,0-9.6,9.6-14.7,8.5c-5.1-1-5.8-8.3-5.8-8.3s5.8-6.4,13.3-7.1c0,0-13-0.7-13.3-9.2s6.8-6.8,6.8-6.8s10.6,4.4,13.3,8.2
+			c0,0,15-22.2,33.6-21.2s28.9,7.2,28.9,7.2S529.9,5383.2,535.3,5391.4z"/>
+		<path id="XMLID_61_" class="st9" d="M90.8,5162.9c0,0-17.1,23.9-37.6,24.9s-31.8-4.1-31.8-4.1s-16.4-9.2-17.8-12
+			c0,0-9.6,9.6-14.7,8.5c-5.1-1-5.8-8.3-5.8-8.3s5.8-6.4,13.3-7.1c0,0-13-0.7-13.3-9.2c-0.3-8.5,6.8-6.8,6.8-6.8s10.6,4.4,13.3,8.2
+			c0,0,15-22.2,33.6-21.2c18.6,1,28.9,7.2,28.9,7.2S85.3,5154.7,90.8,5162.9z"/>
+		<path id="XMLID_89_" class="st9" d="M579.9,5144.1c0,0-17.1,23.9-37.6,24.9s-31.8-4.1-31.8-4.1s-16.4-9.2-17.8-12
+			c0,0-9.6,9.6-14.7,8.5c-5.1-1-5.8-8.3-5.8-8.3s5.8-6.4,13.3-7.1c0,0-13-0.7-13.3-9.2c-0.3-8.5,6.8-6.8,6.8-6.8s10.6,4.4,13.3,8.2
+			c0,0,15-22.2,33.6-21.2c18.6,1,28.9,7.2,28.9,7.2S574.4,5135.9,579.9,5144.1z"/>
+		<path id="XMLID_92_" class="st9" d="M254.6,4987.6c0,0-17.1,23.9-37.6,24.9s-31.8-4.1-31.8-4.1s-16.4-9.2-17.8-12
+			c0,0-9.6,9.6-14.7,8.5c-5.1-1-5.8-8.3-5.8-8.3s5.8-6.4,13.3-7.1c0,0-13-0.7-13.3-9.2c-0.3-8.5,6.8-6.8,6.8-6.8s10.6,4.4,13.3,8.2
+			c0,0,15-22.2,33.6-21.2s28.9,7.2,28.9,7.2S249.1,4979.4,254.6,4987.6z"/>
 		<text id="XMLID_93_" transform="matrix(1 0 0 1 814.9168 5050.1182)" class="st24 st37 st38">AT THIS RATE...</text>
-		<rect id="XMLID_95_" x="662.2" y="5135.9" class="st21" width="387.2" height="318"/>
-		<text id="XMLID_94_" transform="matrix(1 0 0 1 687.2114 5157.0322)"><tspan x="0" y="0" class="st46 st54 st52">By </tspan><tspan x="47.8" y="0" class="st24 st54 st52">2050</tspan><tspan x="125.3" y="0" class="st46 st54 st52">, there will be </tspan><tspan x="-24.3" y="53" class="st46 st54 st52">more plastic in the ocean </tspan><tspan x="103.5" y="106" class="st46 st54 st52">than fish </tspan></text>
+		<rect id="XMLID_95_" x="640" y="5121" class="st21" width="434.5" height="318"/>
+		<text id="XMLID_94_" transform="matrix(1 0 0 1 652.8516 5134.6099)"><tspan x="0" y="0" class="st42 st49 st50">By </tspan><tspan x="30.7" y="0" class="st24 st49 st50">2050</tspan><tspan x="80.6" y="0" class="st42 st49 st50">, there will be more plastic in the </tspan><tspan x="130.3" y="53" class="st42 st49 st50">ocean than fish </tspan></text>
+		<path id="XMLID_97_" class="st12" d="M518.1,4947.8c0,0-11.7-4.2-15.3-2.1c-3.6,2.1-75.9,52.9-75.9,52.9s-5.1,2.2-2.2,9.7
+			c3,7.5,11.8,18.3,16.1,23.1c4.3,4.8,11.9-1.9,11.9-1.9l70.4-49.1c1.8-1.3,3.2-3.1,3.8-5.2c1-3.2,1.9-7.7,1.4-12.9l10.7-7.7
+			l-10.1-14.5L518.1,4947.8z"/>
+		<path id="XMLID_66_" class="st12" d="M938.5,5377.1c0,0-3.5-12-7.2-13.7c-3.8-1.7-87.3-30.7-87.3-30.7s-4.8-2.9-9.2,3.9
+			s-7.9,20.3-9.3,26.6c-1.4,6.3,8.5,8.6,8.5,8.6l81,28.5c2.1,0.7,4.4,0.8,6.5,0.1c3.2-1,7.4-3,11.3-6.4l12.5,4.2l5.9-16.6
+			L938.5,5377.1z"/>
+		<path id="XMLID_96_" class="st12" d="M102,5293.2c0,0-11.7-4.2-15.3-2.1c-3.6,2.1-75.9,52.9-75.9,52.9s-5.1,2.2-2.2,9.7
+			s11.8,18.3,16.1,23.1c4.3,4.8,11.9-1.9,11.9-1.9l70.4-49.1c1.8-1.3,3.2-3.1,3.8-5.2c1-3.2,1.9-7.7,1.4-12.9l10.7-7.7l-10.1-14.5
+			L102,5293.2z"/>
+		<path id="XMLID_65_" class="st12" d="M402.7,5246.7c0,0-11.7-4.2-15.3-2.1s-75.9,52.9-75.9,52.9s-5.1,2.2-2.2,9.7
+			c3,7.5,11.8,18.3,16.1,23.1c4.3,4.8,11.9-1.9,11.9-1.9l70.4-49.1c1.8-1.3,3.2-3.1,3.8-5.2c1-3.2,1.9-7.7,1.4-12.9l10.7-7.7
+			l-10.1-14.5L402.7,5246.7z"/>
 		<path id="XMLID_98_" class="st12" d="M1260.9,5104.3c0,0-11.7-4.2-15.3-2.1c-3.6,2.1-75.9,52.9-75.9,52.9s-5.1,2.2-2.2,9.7
 			c3,7.5,11.8,18.3,16.1,23.1c4.3,4.8,11.9-1.9,11.9-1.9l70.4-49.1c1.8-1.3,3.2-3.1,3.8-5.2c1-3.2,1.9-7.7,1.4-12.9l10.7-7.7
 			l-10.1-14.5L1260.9,5104.3z"/>
+		<path id="XMLID_100_" class="st12" d="M697.7,5305.8l-32.1,11.8c0,0-4.1-1.1-6.1,7.2c-2,8.4-29,102.2-29,102.2s-3.7,0.3-3.7-2.2
+			l30.4-105c0,0,0.1-3.6,5-5.4c4.9-1.8,33.9-12.5,33.9-12.5S697.7,5303.5,697.7,5305.8z"/>
+		<path id="XMLID_99_" class="st12" d="M311.7,5077.2l-32.1,11.8c0,0-4.1-1.1-6.1,7.2c-2,8.4-29,102.2-29,102.2s-3.7,0.3-3.7-2.2
+			l30.4-105c0,0,0.1-3.6,5-5.4s33.9-12.5,33.9-12.5S311.7,5075,311.7,5077.2z"/>
 		<path id="XMLID_101_" class="st10" d="M1128.5,5477.2c0,0,0.6,1.1,3.6,15.3l47.4-4.1c0,0,0.7-6.3,9.9-21.9
 			c20-34,76.1-81.5,80.2-94.3s-5.4-14.3-5.4-14.3s-9.5,2.6-29.4,24.7c-19.9,22-45.7,24.4-34.6,0c0,0,37.1-53,37-82.5
 			c0,0,2.8-35.1-2-54.1c-4.7-19-26-14.9-26.3,6.3c-0.3,21.2,4.9,42.5,4.9,42.5s-0.4,29-6.6,30s-10.6-1.3-15.6-37.6
@@ -1878,63 +1851,67 @@ SUVORK5CYII=" transform="matrix(0.6503 0 0 0.6503 430.7932 2920.158)">
 			c-9.3-12.4-17.3-2.5-17.3-2.5s-12.7,31-6.1,70.7s25,80.1,24.3,92.4c0,0,2.8,39.1-7.6,56.8c-10.3,17.7-28.2-92.5-28.2-92.5
 			s-6.6-43.6-22.9-34.9s-3.9,34-3.9,34s27.7,50,23.5,70.9s-21.6-10.1-21.6-10.1s-10.2-25.3-22.5-23.2c-12.3,2-3,13.3-3,13.3
 			s32.9,40.1,44.4,53.7C1113.9,5448.2,1128.5,5477.2,1128.5,5477.2z"/>
-		<path id="XMLID_110_" class="st9" d="M323.7,5346.5c0,0-5.9,8.2-13,8.6c-7.1,0.4-11-1.4-11-1.4s-5.7-3.2-6.1-4.1
-			c0,0-3.3,3.3-5.1,2.9c-1.8-0.4-2-2.9-2-2.9s2-2.2,4.6-2.4c0,0-4.5-0.2-4.6-3.2c-0.1-2.9,2.4-2.4,2.4-2.4s3.7,1.5,4.6,2.8
-			c0,0,5.2-7.7,11.6-7.3c6.4,0.4,10,2.5,10,2.5S321.8,5343.7,323.7,5346.5z"/>
-		<path id="XMLID_117_" class="st9" d="M229.5,5304.2c0,0-5.9,8.2-13,8.6s-11-1.4-11-1.4s-5.7-3.2-6.1-4.1c0,0-3.3,3.3-5.1,2.9
-			s-2-2.9-2-2.9s2-2.2,4.6-2.4c0,0-4.5-0.2-4.6-3.2c-0.1-2.9,2.4-2.4,2.4-2.4s3.7,1.5,4.6,2.8c0,0,5.2-7.7,11.6-7.3s10,2.5,10,2.5
-			S227.6,5301.4,229.5,5304.2z"/>
-		<path id="XMLID_140_" class="st9" d="M323.7,5212.9c0,0-5.9,8.2-13,8.6c-7.1,0.4-11-1.4-11-1.4s-5.7-3.2-6.1-4.1
-			c0,0-3.3,3.3-5.1,2.9c-1.8-0.4-2-2.9-2-2.9s2-2.2,4.6-2.4c0,0-4.5-0.2-4.6-3.2c-0.1-2.9,2.4-2.4,2.4-2.4s3.7,1.5,4.6,2.8
-			c0,0,5.2-7.7,11.6-7.3s10,2.5,10,2.5S321.8,5210,323.7,5212.9z"/>
-		<path id="XMLID_157_" class="st9" d="M368.8,5286.2c0,0-5.9,8.2-13,8.6c-7.1,0.4-11-1.4-11-1.4s-5.7-3.2-6.1-4.1
-			c0,0-3.3,3.3-5.1,2.9c-1.8-0.4-2-2.9-2-2.9s2-2.2,4.6-2.4c0,0-4.5-0.2-4.6-3.2s2.4-2.4,2.4-2.4s3.7,1.5,4.6,2.8
-			c0,0,5.2-7.7,11.6-7.3s10,2.5,10,2.5S366.9,5283.4,368.8,5286.2z"/>
-		<path id="XMLID_164_" class="st12" d="M354.3,5174.9c0,0-1.6-5.4-3.3-6.2c-1.7-0.8-39.3-13.8-39.3-13.8s-2.2-1.3-4.1,1.8
-			c-2,3.1-3.6,9.1-4.2,12c-0.6,2.8,3.8,3.9,3.8,3.9l36.5,12.8c0.9,0.3,2,0.3,2.9,0c1.4-0.5,3.3-1.4,5.1-2.9l5.6,1.9l2.6-7.5
-			L354.3,5174.9z"/>
-		<path id="XMLID_170_" class="st12" d="M297.4,5258.3c0,0-5.6-0.3-6.9,1s-26.1,32.5-26.1,32.5s-1.9,1.6,0.3,4.5s7.4,6.4,9.9,7.9
-			c2.5,1.5,4.9-2.3,4.9-2.3l24.2-30.2c0.6-0.8,1-1.8,1-2.8c0-1.5-0.2-3.6-1-5.8l3.7-4.7l-6.2-5L297.4,5258.3z"/>
-		<path id="XMLID_235_" class="st12" d="M526.4,5017.4c0,0-5.3,2-5.9,3.7c-0.6,1.8-10.9,40.3-10.9,40.3s-1.1,2.2,2.1,4
-			s9.4,2.9,12.3,3.3c2.9,0.4,3.6-4.1,3.6-4.1l10.1-37.4c0.3-1,0.2-2-0.2-2.9c-0.6-1.4-1.6-3.2-3.3-4.9l1.5-5.8l-7.7-2.1
-			L526.4,5017.4z"/>
-		<path id="XMLID_247_" class="st12" d="M419.8,5258.4c0,0-1.6-5.4-3.3-6.2c-1.7-0.8-39.3-13.8-39.3-13.8s-2.2-1.3-4.1,1.8
-			c-2,3.1-3.6,9.1-4.2,12c-0.6,2.8,3.8,3.9,3.8,3.9l36.5,12.8c0.9,0.3,2,0.3,2.9,0c1.4-0.5,3.3-1.4,5.1-2.9l5.6,1.9l2.6-7.5
-			L419.8,5258.4z"/>
-		<path id="XMLID_248_" class="st12" d="M495.5,5229.8l-13,4.8c0,0-1.7-0.5-2.5,2.9s-11.7,41.4-11.7,41.4s-1.5,0.1-1.5-0.9
-			l12.3-42.6c0,0,0-1.5,2-2.2c2-0.7,13.7-5.1,13.7-5.1S495.5,5228.9,495.5,5229.8z"/>
-		<path id="XMLID_249_" class="st12" d="M236,5220.4l-5.1,12.9c0,0-1.4,0.9,0.6,3.8c2,2.9,23.2,36.3,23.2,36.3s-0.9,1.2-1.7,0.6
-			l-23.6-37.5c0,0-1.1-1-0.3-3c0.8-2,5.3-13.7,5.3-13.7S235.3,5219.7,236,5220.4z"/>
-		<path id="XMLID_250_" class="st12" d="M399.1,5008.1l-13,4.8c0,0-1.7-0.5-2.5,2.9c-0.8,3.4-11.7,41.4-11.7,41.4s-1.5,0.1-1.5-0.9
-			l12.3-42.6c0,0,0-1.5,2-2.2s13.7-5.1,13.7-5.1S399.1,5007.2,399.1,5008.1z"/>
-		<path id="XMLID_251_" class="st12" d="M188.1,5271.1l-13,4.8c0,0-1.7-0.5-2.5,2.9c-0.8,3.4-11.7,41.4-11.7,41.4s-1.5,0.1-1.5-0.9
-			l12.3-42.6c0,0,0-1.5,2-2.2s13.7-5.1,13.7-5.1S188.1,5270.2,188.1,5271.1z"/>
-		<path id="XMLID_252_" class="st12" d="M529.9,5085.2l-4.2,13.2c0,0-1.4,1,0.8,3.8c2.2,2.7,25.5,34.7,25.5,34.7s-0.8,1.3-1.6,0.7
-			l-26-35.9c0,0-1.1-0.9-0.5-3s4.4-14,4.4-14S529.2,5084.7,529.9,5085.2z"/>
-		<path id="XMLID_253_" class="st12" d="M357.9,5093.9c0,0-1.8,5.3-0.8,6.9c1,1.6,24.6,33.7,24.6,33.7s1,2.3,4.4,0.9
-			c3.4-1.4,8.1-5.5,10.2-7.5s-1-5.4-1-5.4l-22.8-31.2c-0.6-0.8-1.4-1.4-2.4-1.7c-1.5-0.4-3.5-0.8-5.8-0.5l-3.6-4.8l-6.4,4.7
-			L357.9,5093.9z"/>
-		<path id="XMLID_254_" class="st12" d="M442.6,5100.9c0,0-4.7,3-5,4.9c-0.3,1.8-2.2,41.7-2.2,41.7s-0.6,2.4,2.9,3.5
-			c3.5,1,9.8,0.8,12.7,0.7s2.6-4.8,2.6-4.8l2-38.6c0.1-1-0.2-2-0.8-2.8c-0.9-1.2-2.2-2.8-4.2-4.1l0.2-5.9l-7.9-0.4L442.6,5100.9z"/>
-		<path id="XMLID_255_" class="st12" d="M422.7,5220c0,0,5.1,2.3,6.8,1.5c1.7-0.8,35.9-21.3,35.9-21.3s2.4-0.8,1.3-4.3
-			c-1.1-3.5-4.7-8.6-6.5-10.9s-5.4,0.5-5.4,0.5l-33.3,19.7c-0.9,0.5-1.5,1.3-1.9,2.2c-0.6,1.4-1.1,3.4-1.1,5.8l-5.1,3.1l4.1,6.8
-			L422.7,5220z"/>
-		<path id="XMLID_256_" class="st12" d="M252.1,5360c0,0-1.6-5.4-3.3-6.2c-1.7-0.8-39.3-13.8-39.3-13.8s-2.2-1.3-4.1,1.8
-			c-2,3.1-3.6,9.1-4.2,12c-0.6,2.8,3.8,3.9,3.8,3.9l36.5,12.8c0.9,0.3,2,0.3,2.9,0c1.4-0.5,3.3-1.4,5.1-2.9l5.6,1.9l2.6-7.5
-			L252.1,5360z"/>
-		<path id="XMLID_257_" class="st12" d="M215.8,5188.4c0,0-4.9-2.7-6.7-2c-1.7,0.7-37.5,18.3-37.5,18.3s-2.4,0.6-1.6,4.2
-			c0.8,3.6,4,9,5.6,11.4s5.5,0,5.5,0l34.8-16.9c0.9-0.4,1.6-1.2,2.1-2.1c0.7-1.4,1.4-3.3,1.5-5.7l5.3-2.7l-3.5-7.2L215.8,5188.4z"/>
-		<path id="XMLID_258_" class="st12" d="M396.3,5326.6l-9.7-9.9c0,0-0.3-1.7-3.7-1c-3.4,0.7-42.6,6.5-42.6,6.5s-0.8-1.3,0.2-1.7
-			l43.9-6.4c0,0,1.4-0.6,2.8,0.9c1.5,1.5,10.3,10.4,10.3,10.4S397.2,5326.2,396.3,5326.6z"/>
-		<path id="XMLID_259_" class="st12" d="M394.7,5166.2l-13,4.8c0,0-1.7-0.5-2.5,2.9c-0.8,3.4-11.7,41.4-11.7,41.4s-1.5,0.1-1.5-0.9
-			l12.3-42.6c0,0,0-1.5,2-2.2s13.7-5.1,13.7-5.1S394.7,5165.3,394.7,5166.2z"/>
-		<path id="XMLID_260_" class="st12" d="M519.4,5137l-13,4.8c0,0-1.7-0.5-2.5,2.9c-0.8,3.4-11.7,41.4-11.7,41.4s-1.5,0.1-1.5-0.9
-			l12.3-42.6c0,0,0-1.5,2-2.2c2-0.7,13.7-5.1,13.7-5.1S519.4,5136.1,519.4,5137z"/>
-		<path id="XMLID_261_" class="st12" d="M456.8,4986.4c0,0-5.6-0.7-7,0.5s-28.4,30.5-28.4,30.5s-2.1,1.5,0,4.5c2,3,7,6.9,9.3,8.7
-			c2.3,1.7,5.1-2,5.1-2l26.4-28.3c0.7-0.7,1.1-1.7,1.2-2.7c0.1-1.5,0.1-3.6-0.6-5.8l4-4.4l-5.8-5.4L456.8,4986.4z"/>
-		<path id="XMLID_262_" class="st12" d="M413.1,5061.1l12.5,6c0,0,0.8,1.5,3.8-0.3s37.9-20.5,37.9-20.5s1.2,1,0.4,1.7l-39.1,20.8
-			c0,0-1.1,1-3,0.1c-1.9-0.9-13.2-6.3-13.2-6.3S412.5,5061.7,413.1,5061.1z"/>
 	</g>
+	<circle id="XMLID_133_" class="st51" cx="368.2" cy="4320.3" r="19.2"/>
+	<path id="XMLID_132_" class="st52" d="M252.6,4232.2c0,0-18.3-32.2-36.3-40.6s-46.8-17.6-67.1,13.6s-28.3,50.3-31.5,69.5
+		c-3.2,19.2-7.2,65.9,6.5,69.3c0,0,16.6,15.2,31.8-21.5c15.2-36.7,15.9-55.7,28.4-69.3s30.2-3.9,30.2-3.9L252.6,4232.2z"/>
+	<path id="XMLID_131_" class="st52" d="M225.1,4414.4l-39.3,12.8c0,0-8.7,31.5,7.8,52.1c16.5,20.6,45.5,17.7,45.5,17.7l27.4-30.6
+		L225.1,4414.4z"/>
+	<path id="XMLID_130_" class="st52" d="M356.7,4238.9c0,0,21.9-29.9,40.7-36.2c18.8-6.3,48.6-12.1,65.1,21.3
+		c16.5,33.4,22.3,53.2,23.3,72.6c1,19.4-0.4,66.3-14.4,68.1c0,0-18.2,13.2-29.1-25c-10.8-38.2-9.3-57.1-20.2-72.1
+		c-10.9-15-29.5-7.4-29.5-7.4L356.7,4238.9z"/>
+	<path id="XMLID_129_" class="st52" d="M330.3,4455.8l19.7,36.3c0,0,32.5,2.9,49.8-17.1s9.2-48,9.2-48l-35.1-21.4L330.3,4455.8z"/>
+	<path id="XMLID_128_" class="st53" d="M299.1,4157.9c-32.4,0-26.6,4.6-44.8,7s-61,28.4-66.9,60.3c-4.4,23.4,4.3,48.3,0.7,99.7
+		s35,103.9,39.9,117.4c4.9,13.5,38.6,37.2,38.6,37.2l25.1-1.5c-6-11.9-44.5-78.2-44.5-78.2c39-30.6,92.9-11.4,92.9-11.4
+		c4.8,39.8-40.9,89.1-40.9,89.1l22.4-1.4c0,0,34.6-10.3,46.2-47.1c10.3-32.6,28.9-58.5,36.9-93.8c8.1-35.3,6.1-101.7,6.1-101.7
+		c-0.5-62.1-68.8-77.3-73.7-76.8c-2,0.2-3.9,0-5.9,0.1C327.4,4157.2,323.6,4157.9,299.1,4157.9z"/>
+	<path id="XMLID_127_" class="st52" d="M278,4055.9c0,0-21.6,9.1-22.4,14.1s1,113.4,1,113.4s-2.4,6.7,14.6,8.9
+		c16.9,2.2,46.7,0.5,60.3-0.5c13.7-1,11.1-13.4,11.1-13.4l-0.9-105.2c0-2.7-1.6-5.4-4.5-7.5c-4.4-3.2-11.4-7.2-21.1-10.3l-0.4-16.2
+		l-37.8,0.3L278,4055.9z"/>
+	<circle id="XMLID_126_" class="st51" cx="235.3" cy="4242.8" r="19.2"/>
+	<circle id="XMLID_125_" class="st51" cx="275.6" cy="4242.8" r="19.2"/>
+	<circle id="XMLID_124_" class="st51" cx="235.3" cy="4281.3" r="19.2"/>
+	<circle id="XMLID_123_" class="st51" cx="275.6" cy="4281.3" r="19.2"/>
+	<circle id="XMLID_122_" class="st51" cx="235.3" cy="4322.1" r="19.2"/>
+	<circle id="XMLID_69_" class="st51" cx="275.6" cy="4322.1" r="19.2"/>
+	<circle id="XMLID_120_" class="st51" cx="327.9" cy="4241.1" r="19.2"/>
+	<circle id="XMLID_119_" class="st51" cx="368.2" cy="4241.1" r="19.2"/>
+	<circle id="XMLID_118_" class="st51" cx="327.9" cy="4279.6" r="19.2"/>
+	<circle id="XMLID_68_" class="st51" cx="368.2" cy="4279.6" r="19.2"/>
+	<circle id="XMLID_59_" class="st51" cx="327.9" cy="4320.3" r="19.2"/>
+	<path id="XMLID_271_" class="st54" d="M1206.5,4832H769.2c-6.6,0-12-5.4-12-12v-277.6c0-6.6,5.4-12,12-12h437.2c6.6,0,12,5.4,12,12
+		V4820C1218.5,4826.6,1213.1,4832,1206.5,4832z"/>
+	<path id="XMLID_270_" class="st55" d="M968.5,4763.6l11.6,30.3h-23l10.2,3.3l-10.2,1.6l8.1,1l-11.6,4.7l26.6-2.1
+		c0,0,19.1,0.3,20.5-0.3c1.5-0.6-17.2-28.3-13.8-36.2L968.5,4763.6z"/>
+	<path id="pellican-outline" class="st55" d="M931,4599.1c-2.4,0.4-72.8,11.9-92.6,8.8c0,0,0,0,0,0c3-0.5,68.3-10.5,79.2-16.4
+		c11.2-6,14.2-8.8,17.8-12.4c3.6-3.6,22.4-11.9,33.6,0.5c9.5,10.5,7.8,26.6,7,31.1c-0.1,0.7-0.2,1.5-0.3,2.2
+		c-0.3,3.4-2.9,15.5-21.5,29.8c-18.5,14.2-21.2,29.2-18.8,36.8c0,0.1,0,0.2,0.1,0.2c2.1,6.3,8.7,10,15.2,8.6
+		c9.8-2.1,28.3-6,37.1-7.6c12.6-2.2,32.9-8.8,60.8,2.8c27.9,11.6,34.7,22.8,34.7,22.8c0,0,0,0,0,0c0,0,11.8,13.8,12.8,16.3
+		c0,0,0,0,0,0c-0.7-0.5-9.7-6.8-13.9-6.8c0,0,13.5,4,14,11.6c0,0,0,0,0,0c-0.6-0.5-10.1-7.5-18.2-8c0,0,0,0,0,0
+		c1.3,0.5,15.6,6.6,18.3,12.7c0,0,0,0,0,0c-0.9-0.3-15.8-5.5-22.3-4c-6.8,1.6-30.7,35-59.1,34.2c0,0,0,0,0,0
+		c-0.1,0.5,1.6,24,2.8,32.3c1.2,8.4,1.4,10.7-6.2,10.7c-7.6,0-30.8,1-36.1,1.4c0,0,0,0,0,0l7.9-3.9c0,0,0,0,0,0l-7.4-1.2
+		c0,0,0,0,0,0l7.4-1.6c0,0,0,0,0,0l-9-2.7c0,0,0,0,0,0c2.2,0.2,31.6,0,32.7-1.1c1.2-1.2-10.4-23.6-9.6-32c0,0,0,0,0,0
+		c-0.7,0.1-27.6,4.3-59.2-9.1c-32-13.6-26.2-62.8-26.2-62.8c0,0,0,0,0,0c0,0,4.7-29.5,18.2-42.6c12.5-12.1,21.6-27.5,21.7-28.1
+		c0,0,0,0,0,0c-0.6,0.3-9.5,5-21.2,10.8c-8.2,4.1-10.7,5.2-18,8.3c-6.5,2.8-20.6,5.6-28.3,5.3c-14.5-0.6-41.3-4.9-44-10.3
+		c0,0,0,0,0,0C841.6,4635,922,4606.3,931,4599.1C931,4599.1,931,4599.1,931,4599.1z"/>
+	
+		<ellipse id="stomach" transform="matrix(0.9936 -0.1127 0.1127 0.9936 -525.5242 142.8078)" class="st55" cx="1000.6" cy="4720.6" rx="64.1" ry="32.5"/>
+	<path id="XMLID_269_" class="st12" d="M947.6,4731.8l7.1,7.8c0,0,0.2,1.3,2.8,0.9c2.6-0.4,32.6-3.7,32.6-3.7s0.5,1-0.2,1.3
+		l-33.6,3.6c0,0-1,0.4-2.1-0.8s-7.6-8.2-7.6-8.2S947,4732.1,947.6,4731.8z"/>
+	<path id="XMLID_268_" class="st12" d="M1013.7,4699.4l-7.8,7.1c0,0-1.3,0.2-0.9,2.8c0.4,2.6,3.7,32.6,3.7,32.6s-1,0.5-1.3-0.2
+		l-3.6-33.6c0,0-0.4-1,0.8-2.1c1.2-1.1,8.2-7.6,8.2-7.6S1013.4,4698.8,1013.7,4699.4z"/>
+	<circle id="XMLID_266_" class="st56" cx="962.3" cy="4715.5" r="6.7"/>
+	<circle id="XMLID_265_" class="st56" cx="974.6" cy="4710" r="6.7"/>
+	<circle id="XMLID_264_" class="st56" cx="987" cy="4704.5" r="6.7"/>
+	<circle id="XMLID_263_" class="st56" cx="967.8" cy="4727.7" r="6.7"/>
+	<circle id="XMLID_262_" class="st56" cx="980.1" cy="4722.2" r="6.7"/>
+	<circle id="XMLID_223_" class="st56" cx="992.4" cy="4716.7" r="6.7"/>
+	<circle id="XMLID_168_" class="st56" cx="1017.3" cy="4719.1" r="6.7"/>
+	<circle id="XMLID_167_" class="st56" cx="1029.6" cy="4713.6" r="6.7"/>
+	<circle id="XMLID_137_" class="st56" cx="1042" cy="4708.1" r="6.7"/>
+	<circle id="XMLID_136_" class="st56" cx="1022.8" cy="4731.3" r="6.7"/>
+	<circle id="XMLID_135_" class="st56" cx="1035.1" cy="4725.8" r="6.7"/>
+	<circle id="XMLID_134_" class="st56" cx="1047.4" cy="4720.3" r="6.7"/>
 </g>
 <g id="straws_1_">
 	<path id="XMLID_141_" class="st28" d="M1278.5,6752.7c0,0-31.9,3.4-70.9-15.6c-39-19-98.6-32.6-173.1,0s-153.3-1.2-153.3-1.2
@@ -1942,8 +1919,10 @@ SUVORK5CYII=" transform="matrix(0.6503 0 0 0.6503 430.7932 2920.158)">
 		C12.5,6769.5-4,6756.1-4,6756.1l3.8,3310.2c0,0,40.9,7.1,96.8-25.7s129.6-6.9,147.1,2.9s74.6,41.2,164.8,1.8
 		c90.2-39.5,140-10.5,164.8-0.2s69.5,31.3,155,0.2s114.8-12.8,163.2,0s63,31.5,153.3,1.2c90.3-30.3,114-26.1,173.1,0
 		c59,26.1,62.1,17.6,62.1,17.6L1278.5,6752.7z"/>
+	<rect id="XMLID_140_" x="1010" y="7895.2" class="st21" width="205.1" height="165.2"/>
+	<text id="XMLID_117_" transform="matrix(1 0 0 1 1010.0317 7970.7979)" class="st57 st5 st58">2x</text>
 	<rect id="XMLID_116_" x="126.7" y="7376.1" class="st21" width="1033.6" height="344.1"/>
-	<text id="XMLID_115_" transform="matrix(1 0 0 1 189.9291 7466.8184)"><tspan x="0" y="0" class="st22 st31 st32">500,000,000</tspan><tspan x="248.1" y="60" class="st22 st33 st34">plastic straws </tspan><tspan x="54.2" y="120" class="st22 st55 st56">used every single day in the United States alone.</tspan></text>
+	<text id="XMLID_115_" transform="matrix(1 0 0 1 189.9291 7466.8184)"><tspan x="0" y="0" class="st22 st31 st32">500,000,000</tspan><tspan x="248.1" y="60" class="st22 st33 st34">plastic straws </tspan><tspan x="134.1" y="120" class="st22 st23 st43">used every single day in the United States alone.</tspan></text>
 	<polygon id="usa_1_" class="st12" points="132.7,8510.9 132.7,8523.5 132.7,8527.5 132.7,8535.4 125.4,8535.4 125.4,8544.7 
 		116.8,8550 116.8,8541.4 121.5,8530.4 105.6,8520.2 101.2,8527.9 104.2,8550 111.1,8554.3 101.2,8559.3 106.1,8565 101.2,8567.7 
 		105.4,8570.7 71,8632.3 68.7,8667 57.8,8678.1 64.9,8694.6 61,8711.8 71.7,8739.3 72.1,8752.7 81.3,8761.1 77.1,8770.9 92,8802.3 
@@ -1965,265 +1944,203 @@ SUVORK5CYII=" transform="matrix(0.6503 0 0 0.6503 430.7932 2920.158)">
 		624.8,8593.3 616,8592.9 608.4,8586.4 598.8,8592.5 601.1,8583.3 611.4,8574.9 587,8590.2 569.8,8598.6 567.9,8591.7 549.5,8600.5 
 		573.2,8574.2 581.2,8567.7 556.8,8566.5 540.3,8568 533.8,8562.7 523.1,8565 509,8559.6 504.8,8546.3 496,8554.7 423,8557.7 
 		363.8,8555.8 275.1,8545.5 183.7,8527.5 	"/>
-	<rect id="XMLID_83_" x="919" y="7847.8" class="st21" width="276.1" height="269.1"/>
-	<text id="XMLID_67_" transform="matrix(1 0 0 1 960.191 7865.916)"><tspan x="0" y="0" class="st46 st41 st52">If lined up, the </tspan><tspan x="-24.1" y="58" class="st46 st41 st52">straws would wrap </tspan><tspan x="-38" y="116" class="st46 st41 st52">around the Earth 2.5 </tspan><tspan x="52.5" y="174" class="st46 st41 st52">TIMES!</tspan></text>
-	<path id="cloud_5_" class="st53" d="M79.5,7724.2c0,0,10.2-41.7,59.7-30.1c0,0,15.7-40.7,54.6-34.5c38.9,6.2,42.6,45.6,42.6,45.6
+	<g id="earth_1_">
+		<circle id="XMLID_114_" class="st59" cx="623.1" cy="7932.3" r="259.1"/>
+		<path id="XMLID_113_" class="st20" d="M881,7922.6c0,0-3.9-99.5-59.7-157.2c-9.3-9.6-45.9-42.7-45.9-42.7l-35,25.1l-16.8-4.7
+			l6.5,17.7l36.3,5.6l15.8,17.7l5.6,16.8l-27,40l43.8,4.7l18.6-7.4l9.3,7.4l5.6-4.7l6.5,15.8l-38.2,23.3l-11.2-4.7l-14.9,4.7h-18.6
+			l-26.1,19.5l14.9,44.7l-6.5,3.9l11.2,17.6l20.5,6.5l13,16.8l21.4-6.5l14,16.8l-11.2,62.4l-14.9,23.3l13.7,25l39.3-54.4
+			c0,0,34.6-71.5,29.4-111.1"/>
+		<polygon id="XMLID_112_" class="st20" points="431.1,7758.5 460.6,7789.7 441,7789.7 424.3,7804.6 428,7829.7 416.8,7861.4 
+			448.4,7919.1 460.6,7951.7 476.4,7967.5 476.4,7984.3 536,7992.6 555.5,8001 555.5,8007.5 569.5,8013.1 569.5,8006.6 
+			558.3,7994.5 569.5,7983.3 565.8,7968.4 553.7,7980.5 536.9,7976.8 510.9,7932.3 516.4,7906.1 550,7900.5 564.8,7906.1 
+			585.3,7895.8 599.3,7923.8 605.8,7922.8 609.5,7902.3 597.4,7872.6 603,7846.5 603,7816.7 618.8,7782.3 641.2,7771.1 
+			646.8,7749.7 640.2,7733.9 606.7,7740.4 597.4,7752.5 574.2,7738.5 574.2,7722.7 541.6,7731.1 492.2,7728.3 486.7,7722.7 
+			469.8,7723.5 		"/>
+		<polygon id="XMLID_111_" class="st20" points="572.7,8005 572.7,8032 554.4,8043.5 554.4,8066.5 566.6,8071.9 572.7,8080 
+			593.6,8093.5 609.8,8130.6 609.8,8160.3 618.6,8186.1 630.7,8181.2 626.7,8172.4 640.2,8140.7 686,8101.6 708.3,8068.5 
+			713.7,8048.9 707,8040.1 696.2,8042.2 665.1,8027.3 663.1,8020.6 634.1,8017.9 609.1,7999.6 587.5,8005 		"/>
+	</g>
+	<path id="XMLID_110_" class="st60" d="M968.2,7942.8c0,0-318.5,157.7-697,0"/>
+	<line id="XMLID_105_" class="st60" x1="963.8" y1="7976.2" x2="972.6" y2="7932.9"/>
+	<line id="XMLID_84_" class="st60" x1="975.1" y1="7939.4" x2="934.9" y2="7929"/>
+	<rect id="XMLID_83_" x="295.6" y="8274.2" class="st21" width="702.4" height="269.1"/>
+	<text id="XMLID_67_" transform="matrix(1 0 0 1 320.6713 8300.7031)"><tspan x="0" y="0" class="st42 st61 st62">If lined up, the straws would wrap </tspan><tspan x="56.3" y="58" class="st42 st61 st62">around the Earth 2.5 TIMES!</tspan></text>
+	<path id="cloud_5_" class="st63" d="M79.5,7724.2c0,0,10.2-41.7,59.7-30.1c0,0,15.7-40.7,54.6-34.5c38.9,6.2,42.6,45.6,42.6,45.6
 		s44,10.2,31,56.9c-13,46.8-59.3,24.5-59.3,24.5s-0.5,13.9-16.7,18.5s-35.7-13.9-35.7-13.9s-23.1,23.6-67-2.3
 		c0,0-48.6,16.2-52.1-33.8C36.7,7755.3,39.2,7719.1,79.5,7724.2z"/>
 	<path id="cloud_4_" class="st12" d="M234.7,7754.1c0,0,8.1-33.2,47.6-24c0,0,12.6-32.5,43.6-27.5c31,5,34,36.4,34,36.4
 		s35.1,8.1,24.7,45.4c-10.3,37.3-47.3,19.6-47.3,19.6s-0.4,11.1-13.3,14.8c-12.9,3.7-28.5-11.1-28.5-11.1s-18.4,18.8-53.5-1.8
 		c0,0-38.7,12.9-41.5-27C200.6,7778.9,202.6,7750,234.7,7754.1z"/>
-	<path id="cloud_3_" class="st12" d="M1039.1,8129.9c0,0,8.1-33.2,47.6-24c0,0,12.6-32.5,43.6-27.5c31,5,34,36.4,34,36.4
-		s35.1,8.1,24.7,45.4s-47.3,19.6-47.3,19.6s-0.4,11.1-13.3,14.8c-12.9,3.7-28.5-11.1-28.5-11.1s-18.4,18.8-53.5-1.8
-		c0,0-38.7,12.9-41.5-27C1004.9,8154.7,1006.9,8125.9,1039.1,8129.9z"/>
+	<path id="cloud_3_" class="st12" d="M1033.7,8103.2c0,0,8.1-33.2,47.6-24c0,0,12.6-32.5,43.6-27.5c31,5,34,36.4,34,36.4
+		s35.1,8.1,24.7,45.4c-10.3,37.3-47.3,19.6-47.3,19.6s-0.4,11.1-13.3,14.8c-12.9,3.7-28.5-11.1-28.5-11.1s-18.4,18.8-53.5-1.8
+		c0,0-38.7,12.9-41.5-27C999.6,8127.9,1001.6,8099.1,1033.7,8103.2z"/>
 	<rect id="XMLID_3_" x="160.8" y="8713.3" class="st21" width="582.3" height="156.4"/>
-	<text id="XMLID_2_" transform="matrix(1 0 0 1 214.0125 8735.9766)"><tspan x="0" y="0" class="st22 st55">14 American cities have completely </tspan><tspan x="93.1" y="45" class="st22 st55">banned plastic straws</tspan></text>
+	<text id="XMLID_2_" transform="matrix(1 0 0 1 214.0125 8735.9766)"><tspan x="0" y="0" class="st22 st64">14 American cities have completely </tspan><tspan x="93.1" y="45" class="st22 st64">banned plastic straws</tspan></text>
 	<text id="XMLID_4_" transform="matrix(1 0 0 1 275.3912 6919.208)" class="st24 st37 st38">THAT’S A SIPPY SITUATION!</text>
 	<rect id="XMLID_7_" x="903.8" y="8559.6" class="st21" width="339.9" height="420.9"/>
-	<text id="XMLID_8_" transform="matrix(1 0 0 1 1025.7737 8577.7236)"><tspan x="0" y="0" class="st22 st41">Alameda</tspan><tspan x="1.5" y="30" class="st22 st41">Berkeley</tspan><tspan x="9.3" y="60" class="st22 st41">Carmel</tspan><tspan x="19.1" y="90" class="st22 st41">Davis</tspan><tspan x="11.1" y="120" class="st22 st41">Malibu</tspan><tspan x="-46.3" y="150" class="st22 st41">Manhattan Beach</tspan><tspan x="2.7" y="180" class="st22 st41">Oakland</tspan><tspan x="-38.7" y="210" class="st22 st41">San Luis Obispo</tspan><tspan x="-6" y="240" class="st22 st41">Richmond</tspan><tspan x="-2.9" y="270" class="st22 st41">Edmonds</tspan><tspan x="10.4" y="300" class="st22 st41">Seattle</tspan><tspan x="-47.8" y="330" class="st22 st41">Monmouth Beach</tspan><tspan x="-10.2" y="360" class="st22 st41">Fort Myers</tspan><tspan x="-21.3" y="390" class="st22 st41">Miami Beach</tspan></text>
-	<rect id="XMLID_11_" x="190.4" y="7015.8" class="st21" width="879.4" height="331.3"/>
-	<text id="XMLID_9_" transform="matrix(1 0 0 1 205.0546 7029.4204)"><tspan x="0" y="0" class="st46 st23 st47">Plastic straws have been under a spotlight for fixing the plastic problem but many are </tspan><tspan x="-3.6" y="53" class="st46 st23 st47">left wondering, “what difference would these minimal pieces of plastic make?”  Straws </tspan><tspan x="-9.3" y="106" class="st46 st23 st47">are a good starting point as, to most able-bodied people, they are unnecessary.  There</tspan><tspan x="853.7" y="106" class="st46 st23 st47">-</tspan><tspan x="195.6" y="159" class="st46 st23 st47">fore, it is theoretically easy to eliminate them. </tspan></text>
+	<text id="XMLID_8_" transform="matrix(1 0 0 1 1025.7737 8577.7236)"><tspan x="0" y="0" class="st22 st23">Alameda</tspan><tspan x="1.5" y="30" class="st22 st23">Berkeley</tspan><tspan x="9.3" y="60" class="st22 st23">Carmel</tspan><tspan x="19.1" y="90" class="st22 st23">Davis</tspan><tspan x="11.1" y="120" class="st22 st23">Malibu</tspan><tspan x="-46.3" y="150" class="st22 st23">Manhattan Beach</tspan><tspan x="2.7" y="180" class="st22 st23">Oakland</tspan><tspan x="-38.7" y="210" class="st22 st23">San Luis Obispo</tspan><tspan x="-6" y="240" class="st22 st23">Richmond</tspan><tspan x="-2.9" y="270" class="st22 st23">Edmonds</tspan><tspan x="10.4" y="300" class="st22 st23">Seattle</tspan><tspan x="-47.8" y="330" class="st22 st23">Monmouth Beach</tspan><tspan x="-10.2" y="360" class="st22 st23">Fort Myers</tspan><tspan x="-21.3" y="390" class="st22 st23">Miami Beach</tspan></text>
+	<rect id="XMLID_11_" x="72.6" y="6978.2" class="st21" width="1167.3" height="331.3"/>
+	<text id="XMLID_9_" transform="matrix(1 0 0 1 89.4935 6996.3604)"><tspan x="0" y="0" class="st42 st23 st43">Plastic straws have been under a spotlight for fixing the plastic problem but many are </tspan><tspan x="-4.8" y="53" class="st42 st23 st43">left wondering, “what difference would these minimal pieces of plastic make?”  Straws </tspan><tspan x="-12.5" y="106" class="st42 st23 st43">are a good starting point as, to most able-bodied people, they are unnecessary.  There</tspan><tspan x="1138.3" y="106" class="st42 st23 st43">-</tspan><tspan x="260.9" y="159" class="st42 st23 st43">fore, it is theoretically easy to eliminate them. </tspan></text>
 	<text id="XMLID_12_" transform="matrix(1 0 0 1 61.2366 9179.0967)" class="st24 st37 st38">WHY CAN’T THEY BE RECYCLED?</text>
 	<polygon id="XMLID_14_" class="st21" points="1238.4,9495.1 71.1,9495.1 63.1,9261.7 1230.4,9261.7 	"/>
-	<text id="XMLID_13_" transform="matrix(1 0 0 1 76.1512 9279.8174)"><tspan x="0" y="0" class="st46 st41 st52">Though plastic straws are made out of [recyclable] plastic, they are not easiy recycled.  </tspan><tspan x="-4.8" y="53" class="st46 st41 st52">Why?  Simply because they are too light to be processed through the mechanical sorter </tspan><tspan x="321.3" y="106" class="st46 st41 st52">so they get dropped into the garbage. </tspan></text>
+	<text id="XMLID_13_" transform="matrix(1 0 0 1 78.4852 9275.2822)"><tspan x="0" y="0" class="st42 st49 st50">Though plastic straws are made out of [recyclable] plastic, they are not easiy recycled.  Why?  Simply because they </tspan><tspan x="79.8" y="53" class="st42 st49 st50">are too light to be processed through the mechanical sorter so they get dropped into the garbage. </tspan></text>
 	<g id="beach_2_">
-		<path id="blue_wave_1_" class="st48" d="M0.2,9986.4c0,0,31.3,0,70.9,15.6s94,31.1,173.1,0s153.3,1.2,153.3,1.2s67.6,38.6,163.2,0
-			s155,0.2,155,0.2s72.5,46.2,164.8-0.2c64.2-32.3,145.8-10.9,164.8,1.8c0,0,70.9,35.8,158.2-1.5c0,0,44.5-26.9,79.1-20.4v343.7H0.2
-			L0.2,9986.4z"/>
+		<path id="blue_wave_1_" class="st45" d="M-3.8,9986.4c0,0,31.3,0,70.9,15.6s94,31.1,173.1,0s153.3,1.2,153.3,1.2
+			s67.6,38.6,163.2,0s155,0.2,155,0.2s72.5,46.2,164.8-0.2c64.2-32.3,145.8-10.9,164.8,1.8c0,0,70.9,35.8,158.2-1.5
+			c0,0,44.5-26.9,79.1-20.4v343.7H-3.8L-3.8,9986.4z"/>
 		<g id="white_wave_1_">
-			<path id="XMLID_34_" class="st12" d="M1.5,10053.1c0,0,31.3,0,70.9,15.6s94,31.1,173.1,0s153.3,1.2,153.3,1.2s67.6,38.6,163.2,0
-				c95.6-38.6,155,0.2,155,0.2s72.5,46.2,164.8-0.2s164.8,1.8,164.8,1.8s70.9,35.8,158.2-1.5c0,0,44.5-26.9,79.1-20.4v343.7H1.5
-				V10053.1z"/>
-			<text id="XMLID_33_" transform="matrix(-1 0 0 -1 -238.8623 15900.8389)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">The Great</tspan><tspan x="272.3" y="0" class="st2 st3 st5"> </tspan><tspan x="0" y="102" class="st2 st3 st6">Pacific Garbage Patch</tspan></text>
+			<path id="XMLID_34_" class="st12" d="M-2.5,10053.1c0,0,31.3,0,70.9,15.6s94,31.1,173.1,0s153.3,1.2,153.3,1.2s67.6,38.6,163.2,0
+				c95.6-38.6,155,0.2,155,0.2s72.5,46.2,164.8-0.2s164.8,1.8,164.8,1.8s70.9,35.8,158.2-1.5c0,0,44.5-26.9,79.1-20.4v343.7H-2.5
+				L-2.5,10053.1z"/>
+			<text id="XMLID_33_" transform="matrix(-1 0 0 -1 -242.8623 15900.8389)" class="st1"><tspan x="0" y="0" class="st2 st3 st4">The Great</tspan><tspan x="272.3" y="0" class="st2 st3 st5"> </tspan><tspan x="0" y="102" class="st2 st3 st6">Pacific Garbage Patch</tspan></text>
 		</g>
-		<path id="beach_1_" class="st49" d="M-3.1,10879.4c0,0,32-3.4,71.2,15.6c39.2,19,99,32.6,173.8,0s154,1.2,154,1.2
-			s64.9,37.2,163.9,0c99-37.2,155.6,0.2,155.6,0.2s60.7,45.6,165.6-0.2s165.6,1.8,165.6,1.8s73.6,41.1,147.7,2.9
-			c74.1-38.2,90.7-24.8,90.7-24.8v-773c0,0-34.6-7.9-90.7,24.8c-56.1,32.7-130.2,6.9-147.7-2.9s-74.9-41.2-165.6-1.8
-			c-90.6,39.5-140.6,10.5-165.6,0.2s-69.8-31.3-155.6-0.2c-85.8,31.1-115.3,12.8-163.9,0s-63.3-31.5-154-1.2
-			c-90.7,30.3-114.5,26.1-173.8,0s-71.2-15.6-71.2-15.6V10879.4z"/>
+		<path id="beach_1_" class="st46" d="M-7.1,10493.6c0,0,32-3.4,71.2,15.6s99,32.6,173.8,0s154,1.2,154,1.2s64.9,37.2,163.9,0
+			c99-37.2,155.6,0.2,155.6,0.2s60.7,45.6,165.6-0.2s165.6,1.8,165.6,1.8s73.6,41.1,147.7,2.9c74.1-38.2,90.7-24.8,90.7-24.8V10103
+			c0,0-34.6-7.9-90.7,24.8c-56.1,32.7-130.2,6.9-147.7-2.9s-74.9-41.2-165.6-1.8c-90.6,39.5-140.6,10.5-165.6,0.2
+			s-69.8-31.3-155.6-0.2c-85.8,31.1-115.3,12.8-163.9,0s-63.3-31.5-154-1.2c-90.7,30.3-114.5,26.1-173.8,0s-71.2-15.6-71.2-15.6
+			V10493.6z"/>
 		<g id="palm_tree">
-			<path id="XMLID_57_" class="st57" d="M280.8,9770.7c0,0-89,120.2-121.4,213.7c-31.4,90.6-27.1,138.1-34.9,177.2
-				c-7.7,39.2-9.7,156.2-9.7,156.2s73.6,20.1,106.6,0c0,0-38.7-198.4,7.7-359.2C275.7,9797.8,280.8,9770.7,280.8,9770.7z"/>
-			<path id="XMLID_35_" class="st58" d="M262,9820.9c0,0,101.3,192.2,96.2,263.4c0,0,45.5-103.8,11.2-207.6c0,0-24-70.4-77.2-72.9
+			<path id="XMLID_57_" class="st65" d="M276.8,9770.7c0,0-89,120.2-121.4,213.7c-31.4,90.6-27.1,138.1-34.9,177.2
+				c-7.7,39.2-9.7,156.2-9.7,156.2s73.6,20.1,106.6,0c0,0-38.7-198.4,7.7-359.2C271.7,9797.8,276.8,9770.7,276.8,9770.7z"/>
+			<path id="XMLID_35_" class="st66" d="M258,9820.9c0,0,101.3,192.2,96.2,263.4c0,0,45.5-103.8,11.2-207.6c0,0-24-70.4-77.2-72.9
 				c0,0,79.8-5.1,110.7,20.6c22.4,18.6,40.7,54.3,49.1,72.6c3.3,7.1,5.5,14.7,6.5,22.5c2,14.8,5.1,40.3,4.5,51.5
 				c-0.9,16.3,30-53.2,29.2-89.2c-0.9-36-19.7-84.9-36-96.9c-16.3-12-45.2-33.8-72.1-37.7c-25.5-3.8-63.5-5.8-73.8,5.3
-				c-3.9,4.1-2.4,0,2.8-7.2c17-23.4,44.6-36.6,73.4-35.8c22,0.6,52.5,3.3,61,12.9c0,0-2.6-62.6-84.9-60.9S262,9702.6,262,9702.6
+				c-3.9,4.1-2.4,0,2.8-7.2c17-23.4,44.6-36.6,73.4-35.8c22,0.6,52.5,3.3,61,12.9c0,0-2.6-62.6-84.9-60.9S258,9702.6,258,9702.6
 				s-10.2,16.3-10.2,25.7c0,0-27.9-40.3-72.7-43.8c-44.8-3.4-90.3,0.9-100.6,9.4c0,0,30.9,5.1,66.1,28.3
 				c35.2,23.2,72.1,63.5,72.1,63.5s-60.1-4.3-103.8,20.6s-68.6,87.5-68.6,87.5s-8.6,21.4-8.6,30.9
-				C35.5,9934.2,185.3,9815.2,262,9820.9z"/>
+				C31.5,9934.2,181.3,9815.2,258,9820.9z"/>
 		</g>
-		<rect id="XMLID_143_" x="246.2" y="10218" class="st21" width="1033.6" height="344.1"/>
-		<text id="XMLID_142_" transform="matrix(1 0 0 1 411.2435 10278.5049)"><tspan x="0" y="0" class="st22 st39 st59">8,300,000,000</tspan><tspan x="146.2" y="60" class="st22 st33 st34">plastic straws </tspan><tspan x="-74.7" y="120" class="st22 st55 st56">are found populating the beaches around the world!</tspan></text>
+		<rect id="XMLID_143_" x="242.2" y="10218" class="st21" width="1033.6" height="344.1"/>
+		<text id="XMLID_142_" transform="matrix(1 0 0 1 407.2445 10278.5049)"><tspan x="0" y="0" class="st22 st39 st67">8,300,000,000</tspan><tspan x="146.2" y="60" class="st22 st33 st34">plastic straws </tspan><tspan x="-74.7" y="120" class="st22 st64 st62">are found populating the beaches around the world!</tspan></text>
 	</g>
-	<path id="XMLID_150_" class="st60" d="M1129.1,9872.8H650c-52.3,0-95.1-42.8-95.1-95.1V9646c0-52.3,42.8-95.1,95.1-95.1h479.1
-		c52.3,0,95.1,42.8,95.1,95.1v131.7C1224.2,9830,1181.4,9872.8,1129.1,9872.8z"/>
-	<rect id="XMLID_145_" x="650.8" y="9603.7" class="st21" width="441.3" height="269.1"/>
-	<text id="XMLID_144_" transform="matrix(1 0 0 1 655.0673 9664.209)"><tspan x="0" y="0" class="st12 st24 st39 st40">200 years</tspan><tspan x="8.7" y="58" class="st12 st46 st23 st47">It takes 200 whole years for plastic straws </tspan><tspan x="86.8" y="116" class="st12 st46 st23 st47">to decompose completely.</tspan></text>
-
+	<path id="XMLID_150_" class="st68" d="M1129.1,9825.3H650c-52.3,0-95.1-42.8-95.1-95.1v-131.7c0-52.3,42.8-95.1,95.1-95.1h479.1
+		c52.3,0,95.1,42.8,95.1,95.1v131.7C1224.2,9782.5,1181.4,9825.3,1129.1,9825.3z"/>
+	<rect id="XMLID_145_" x="554.9" y="9603.7" class="st21" width="669.4" height="269.1"/>
+	<text id="XMLID_144_" transform="matrix(1 0 0 1 673.202 9664.209)"><tspan x="0" y="0" class="st12 st24 st39 st40">200 years</tspan><tspan x="-63.5" y="58" class="st12 st42 st69 st43">It takes 200 years for plastic straws to decompose.</tspan></text>
 	<path id="XMLID_148_" class="st12" d="M1128,6821.8l-32.1,11.8c0,0-4.1-1.1-6.1,7.2s-29,102.2-29,102.2s-3.7,0.3-3.7-2.2l30.4-105
 		c0,0,0.1-3.6,5-5.4c4.9-1.8,33.9-12.5,33.9-12.5S1128,6819.6,1128,6821.8z"/>
 	<text id="XMLID_149_" transform="matrix(1 0 0 1 56.7849 8450.6328)" class="st24 st37 st38">BANS ON THE MOVE</text>
 	<rect id="XMLID_6_" x="0" y="6445.6" class="st9" width="1280" height="209.1"/>
 	<text id="XMLID_5_" transform="matrix(1 0 0 1 488.3809 6532.5952)"><tspan x="0" y="0" class="st24 st37 st38">SAY NO TO</tspan><tspan x="-245.6" y="86" class="st12 st15 st39 st40">PLASTIC STRAWS</tspan></text>
-	<path id="alameda" class="st20" d="M104.7,8752.4l12.1-17.7c0,0,1.3-1.5,2.4-0.8s2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		S104.7,8752.4,104.7,8752.4z"/>
-	<path id="oakland" class="st20" d="M102,8733.1l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		S102,8733.1,102,8733.1z"/>
-	<path id="manhattan-beach" class="st20" d="M161.1,8851.6l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9s2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		S161.1,8851.6,161.1,8851.6z"/>
-	<path id="davis" class="st20" d="M129.9,8691.1l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		S129.9,8691.1,129.9,8691.1z"/>
-	<path id="san-luis" class="st20" d="M131,8819.9l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		C126.6,8815.6,131,8819.9,131,8819.9z"/>
-	<path id="malibu" class="st20" d="M143.9,8838.2l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		s-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0s-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9s2.4-2.3,2.4-2.3s1-0.9,2.1,0.2S143.9,8838.2,143.9,8838.2z"
-		/>
-	<path id="berkeley" class="st20" d="M100.3,8710.5l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		s-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		C95.9,8706.2,100.3,8710.5,100.3,8710.5z"/>
-	<path id="richmond" class="st20" d="M97.6,8691.1l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		s-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		S97.6,8691.1,97.6,8691.1z"/>
-	<path id="carmel" class="st20" d="M104.7,8788.7l12.1-17.7c0,0,1.3-1.5,2.4-0.8s2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		S104.7,8788.7,104.7,8788.7z"/>
-	<path id="seattle" class="st20" d="M131.5,8557.9l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		C127.1,8553.6,131.5,8557.9,131.5,8557.9z"/>
-	<path id="edmonds" class="st20" d="M131.5,8542.6l12.1-17.7c0,0,1.3-1.5,2.4-0.8s2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		S131.5,8542.6,131.5,8542.6z"/>
-	<path id="monmouth-beach" class="st20" d="M825.1,8682.6l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		C820.6,8678.3,825.1,8682.6,825.1,8682.6z"/>
-	<path id="fort-myers" class="st20" d="M779.4,8983.4l12.1-17.7c0,0,1.3-1.5,2.4-0.8c1.2,0.8,2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0c-1.6-1.6-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		C774.9,8979,779.4,8983.4,779.4,8983.4z"/>
-	<path id="miami-beach" class="st20" d="M797.5,8994.2l12.1-17.7c0,0,1.3-1.5,2.4-0.8s2.3,1.6,2.3,1.6s1.2,0.9,0,2.8
-		c-1.2,1.9-14.7,21.4-14.7,21.4s-1.7,1.6-3.3,0s-8.9-8.9-8.9-8.9s-1.1-0.8,0-1.9c1.1-1.1,2.4-2.3,2.4-2.3s1-0.9,2.1,0.2
-		C793.1,8989.8,797.5,8994.2,797.5,8994.2z"/>
-	<g id="earth_1_">
-		<path id="XMLID_154_" class="st61" d="M735.8,7988.1c0,49.9,87.5,84.7,97.5,125.3c6.7,27.1-15.6,66.7-38.1,82.9
-			c-60.8,43.6-112,49.1-180.8,49.1c-94.9,0-231.5-35.1-226.3-123.3c3-50.4,110-80.9,110-134.7c0-52.8-111.1-94.4-111.5-141.7
-			c-0.8-92.4,131.9-138.7,227.7-138.7c90.6,0,206.9,30.2,219.6,113.5C841.4,7869.5,735.8,7930,735.8,7988.1z"/>
-		<path id="XMLID_152_" class="st20" d="M735.8,7988.3c0-0.2,0-0.3,0.1-0.5c0.8-3.5,10.3-45.2,45.1-77.6
-			c22.1-20.6,44.2-44.8,52.2-69.2c8.4-25.8-16-60.4-36.2-77.1c-7.4-6.1-21.2-18.4-29.7-14l-100.3,62.3c-0.8,0.5-1.8,0.7-2.8,0.4
-			l-9.4-2.6c-2.7-0.8-5.1,1.9-4.2,4.5l3.7,10.1c0.4,1.2,1.5,2,2.7,2.2l34.5,5.3c0.8,0.1,1.5,0.5,2.1,1.1l15.1,16.9
-			c0.3,0.4,0.6,0.8,0.7,1.2l5,15.1c0.3,1,0.2,2.1-0.4,3l-23.9,35.4c-1.5,2.2-0.1,5.1,2.5,5.4l38.9,4.1c0.6,0.1,1.1,0,1.7-0.2
-			l16.7-6.7c1.2-0.5,2.5-0.3,3.4,0.5l5.9,4.7c1.3,1,3.1,1,4.4,0l3.6-3l-11.7,16.9l-24.7,33.3c-0.9,1.3-2.6,1.7-4.1,1.1l-7.9-3.3
-			c-0.8-0.3-1.6-0.4-2.4-0.1l-13.4,4.2c-0.6,0.2-1.2,0.2-1.8,0.1l-6.5-1.4c-0.9-0.2-1.9,0-2.7,0.5l-19.6,13.2c-1.5,1-2,3.1-1,4.7
-			l20.4,33.7c1,1.6,0.5,3.8-1.2,4.8l-0.7,0.4c-1.7,1-2.2,3.2-1.2,4.8l9,14.2c0.4,0.7,1.1,1.2,1.9,1.4l19.1,6.1
-			c0.7,0.2,1.3,0.6,1.7,1.2l11.4,14.7c0.9,1.1,2.4,1.6,3.7,1.2l14.7-4.5c2.4-0.7,4.8,1.3,4.4,3.8l-2.1,13.4l-11.5,64.1
-			c-0.1,0.4-0.2,0.9-0.5,1.3l-14,21.9c-0.7,1.1-0.7,2.4-0.1,3.5l10.7,19.4c1.2,2.2,4.3,2.4,5.8,0.4l37.6-52c0-0.1,0.1-0.1,0.1-0.1
-			c1.4-1.8,33.7-38.6,8.4-70.9c-0.2-0.3-2.2-2-2.5-2.2C781.7,8055.8,733.1,8016.9,735.8,7988.3z"/>
-		<path id="XMLID_114_" class="st20" d="M412.5,7788.4l12.3,19.3c1.9,2.8-0.4,6.5-3.7,6l-9.8-1.4c-0.9-0.1-1.9,0.1-2.7,0.6
-			l-16.8,11.1c-0.9,0.6-1.5,1.6-1.7,2.6l-0.4,29.1c-0.2,1.1,0.1,2.1,0.8,3l48,47.5l17.9,18.7c8.5,8.4,16.1,15.8,24.6,24.1
-			c2.5,6.1,10.4,11.9,12.1,18.8c0.1,0.6,0.7,1.1,0.8,1.9l2,5.2c0.2,0.6,0.5,1.1,0.8,1.7l10.2,17.5c0.7,0.3,1.4,0.7,1.8,1.3
-			l12.3,16.4c0.6,0.8,0.9,1.8,0.7,2.8l-1.8,12.6c-0.3,1.8,0.8,3.5,2.4,4.1l52.2,19.7c0.7,0.3,1.3,0.7,1.8,1.3l5.6,7.8
-			c0.6,0.8,0.8,1.7,0.7,2.7l-0.4,3.2c-0.2,1.6,0.7,3.2,2.2,3.9l12.6,5.9l-1.6-4.2c-0.1-0.3-0.3-0.6-0.4-0.8l-7.3-10.7
-			c-1.2-1.7-0.8-4,0.9-5.2l8.5-6.3c1.1-0.8,1.7-2.1,1.5-3.5l-0.7-7c-0.3-3-3.7-4.5-6.1-2.7l-7.1,5.3c-1.1,0.8-2.4,1-3.7,0.5l-13.1-5
-			c-1-0.4-1.8-1.2-2.2-2.1l-19.2-47.3c-0.2-0.5-0.5-1-0.9-1.3l-8.5-8.1c-2.4-2.3-1-6.4,2.4-6.6l10.3,0.6c0.7-0.1,5.6-1.5,6.2-1.1
-			l7.4,5.9c2.2,1.2,5.5-0.6,6.1-3l2.4-0.4l9.2,26.1c0.4,1.7,0.2,2.9,2,2.9l-0.1,0.2c2.1,0,2.4-1.1,2.3-3.2l-1.2-14.2
-			c0-0.9-0.6-2.5-1.2-3.2l-43.9-42.7l28.8-43.4c0.2-0.4,0.3-0.8,0.4-1.2l4.2-29.2c0.1-0.5,0.3-1.1,0.6-1.5l20.2-31.2
-			c0.5-0.7,1.2-1.3,2-1.6l21.7-7.2c1.1-0.3,1.9-1.1,2.3-2.2l7.8-18.4c0.3-0.8,0.4-1.6,0.2-2.4l-3.3-13c-0.4-1.8-2.1-3-3.9-2.9
-			L589,7786c-0.9,0-1.8,0.4-2.5,1.1l-7.9,7.7c-1.4,1.4-3.6,1.5-5.1,0.2l-17.5-14.3c-1-0.9-1.6-2.2-1.4-3.5l1.3-9.2
-			c0.4-2.5-1.7-4.6-4.2-4.4l-29.2,3.2c-0.4,0-0.8,0-1.2-0.1l-48.3-9.8c-0.9-0.2-1.7-0.7-2.3-1.5l-3-4c-0.6-0.9-1.6-1.4-2.7-1.5
-			l-13.1,0c-1.5,0-1.8,0-3.3,1.4l-34.7,30.2c-1,0.9-1.7,2.1-2,3.4C411.7,7786.1,411.7,7787.4,412.5,7788.4z"/>
-		<polygon id="XMLID_113_" class="st20" points="600.3,8077.9 594.2,8099.8 576.8,8105 571.7,8123.6 580.3,8130.7 583.4,8138.6 
-			597.3,8154.3 602,8188 595.3,8212.1 596.6,8234.9 607.6,8233.7 606.3,8225.7 624.4,8203 670.4,8181.7 695.9,8159.9 704.7,8145.3 
-			701.2,8136.6 692,8135.8 670.2,8116.8 670,8110.9 647.1,8102.2 631,8081.8 612.3,8081.3 		"/>
-	</g>
-	<polygon id="XMLID_112_" class="st12" points="739.1,7976.2 496.2,7976.6 492.5,7967.6 742.5,7967.6 	"/>
-	<polygon id="XMLID_111_" class="st12" points="735.8,7990.1 497.6,7990.1 497.3,7982.3 737.3,7982.3 	"/>
-	<path id="XMLID_59_" class="st12" d="M682.6,8090.4l-40.3-67.8c0,0-2.4-7.4-21-10.5c-19.7-3.3-127-8.1-127-8.1s2.3-6.2,2.7-9.3
-		l134.5,9.8c0,0,9.6,0.7,14.7,8.9c6.4,10.4,44.5,71.4,44.5,71.4S687.7,8089.3,682.6,8090.4z"/>
 </g>
 <g id="saveTheWorld">
 	<g id="XMLID_213_">
-		<path id="background" class="st62" d="M1282.5,11388.5c0,0-31.9,3.4-70.9-15.6c-39-19-98.6-32.6-173.1,0s-153.3-1.2-153.3-1.2
-			s-64.6-37.2-163.2,0s-155-0.2-155-0.2s-60.4-45.6-164.8,0.2c-104.5,45.8-164.8-1.8-164.8-1.8s-73.3-41.1-147.1-2.9
-			S0,11391.8,0,11391.8v996.5c0,0,34.4,7.9,90.3-24.8s129.6-6.9,147.1,2.9s74.6,41.2,164.8,1.8c90.2-39.5,140-10.5,164.8-0.2
+		<path id="background" class="st70" d="M1281.9,10944.5c0,0-31.9,3.4-70.9-15.6c-39-19-98.6-32.6-173.1,0s-153.3-1.2-153.3-1.2
+			s-64.6-37.2-163.2,0c-98.6,37.2-155-0.2-155-0.2s-60.4-45.6-164.8,0.2s-164.8-1.8-164.8-1.8s-73.3-41.1-147.1-2.9
+			s-90.3,24.8-90.3,24.8v996.5c0,0,34.4,7.9,90.3-24.8s129.6-6.9,147.1,2.9s74.6,41.2,164.8,1.8c90.2-39.5,140-10.5,164.8-0.2
 			c24.8,10.4,69.5,31.3,155,0.2s114.8-12.8,163.2,0c48.4,12.8,63,31.5,153.3,1.2c90.3-30.3,114-26.1,173.1,0
-			c59,26.1,70.9,15.6,70.9,15.6V11388.5z"/>
+			c59,26.1,70.9,15.6,70.9,15.6V10944.5z"/>
 	</g>
-	<rect id="title_background" x="0" y="11037.3" class="st9" width="1280" height="209.1"/>
-	<text id="XMLID_197_" transform="matrix(1 0 0 1 527.5151 11124.2148)"><tspan x="0" y="0" class="st24 st37 st38">HOW TO</tspan><tspan x="-303.4" y="86" class="st12 st15 st39 st40">SAVE THE WORLD</tspan></text>
-	<text id="XMLID_198_" transform="matrix(1 0 0 1 245.4518 11486.3564)" class="st24 st37 st38">3 SIMPLE THINGS YOU CAN DO</text>
+	<rect id="title_background" x="-0.6" y="10627.5" class="st9" width="1280" height="209.1"/>
+	<text id="XMLID_197_" transform="matrix(1 0 0 1 526.9138 10712.4111)"><tspan x="0" y="0" class="st24 st37 st38">HOW TO</tspan><tspan x="-303.4" y="86" class="st12 st15 st39 st40">SAVE THE WORLD</tspan></text>
+	<text id="XMLID_198_" transform="matrix(1 0 0 1 244.8505 11042.3623)" class="st24 st37 st38">3 SIMPLE THINGS YOU CAN DO</text>
 	<g id="bag">
-		<rect id="XMLID_151_" x="542.3" y="11743.2" class="st58" width="198" height="219.4"/>
-		<polygon id="XMLID_153_" class="st44" points="583.7,11649.5 583.7,11962.6 603.8,11962.6 603.8,11636.8 		"/>
-		<polygon id="XMLID_155_" class="st44" points="705,11649.5 705,11962.6 684.9,11962.6 684.9,11636.8 		"/>
-		<rect id="XMLID_156_" x="603.8" y="11636.8" class="st44" width="81.1" height="22.4"/>
+		<rect id="XMLID_151_" x="541.7" y="11299.2" class="st66" width="198" height="219.4"/>
+		<polygon id="XMLID_153_" class="st53" points="583.1,11205.5 583.1,11518.6 603.2,11518.6 603.2,11192.8 		"/>
+		<polygon id="XMLID_155_" class="st53" points="704.4,11205.5 704.4,11518.6 684.3,11518.6 684.3,11192.8 		"/>
+		<rect id="XMLID_156_" x="603.2" y="11192.8" class="st53" width="81.1" height="22.4"/>
 	</g>
 	<g id="waterbottle">
-		<path id="XMLID_199_" class="st63" d="M254.5,11680.6c2.1-2.4,1.1-4.5-0.5-6.1c-1.7-1.7-4.1-2.5-6.5-2.5h-42.6
-			c-8.7,0-9.3,7-7.1,9.2c4.8,4.7,7.1,11.5,7.1,18.3v0c-24.3,11.6-28.5,43.3-28.5,43.3s0,188,0,204.9c0,16.9,15.8,15.8,15.8,15.8
-			s57,0,72.9,0s15.8-12.7,15.8-12.7s0-174.3,0-207s-34.3-45.7-34.3-45.7l2.1,0.9C249.6,11692.6,250.1,11685.5,254.5,11680.6z"/>
-		<path id="XMLID_211_" class="st19" d="M213.3,11635.8h27.3c0,0,8,14,8.2,18.5c0.2,4.5,0,17.8,0,17.8h-43.9v-18.1
-			C204.9,11654,206,11642.7,213.3,11635.8z"/>
-		<circle id="XMLID_212_" class="st18" cx="226.9" cy="11654" r="13.5"/>
+		<path id="XMLID_199_" class="st71" d="M253.9,11236.6c2.1-2.4,1.1-4.5-0.5-6.1c-1.7-1.7-4.1-2.5-6.5-2.5h-42.6
+			c-8.7,0-9.3,7-7.1,9.2c4.8,4.7,7.1,11.5,7.1,18.3v0c-24.3,11.6-28.5,43.3-28.5,43.3s0,188,0,204.9s15.8,15.8,15.8,15.8
+			s57,0,72.9,0s15.8-12.7,15.8-12.7s0-174.3,0-207s-34.3-45.7-34.3-45.7l2.1,0.9C249,11248.6,249.5,11241.5,253.9,11236.6z"/>
+		<path id="XMLID_211_" class="st19" d="M212.7,11191.9H240c0,0,8,14,8.2,18.5c0.2,4.5,0,17.8,0,17.8h-43.9v-18.1
+			C204.3,11210,205.4,11198.7,212.7,11191.9z"/>
+		<circle id="XMLID_212_" class="st18" cx="226.3" cy="11210" r="13.5"/>
 	</g>
 	<g id="straw_1_">
 		<g id="XMLID_214_">
 			<g id="XMLID_236_">
-				<path id="XMLID_240_" class="st64" d="M1158.4,11799.7c-0.3,63.5-40.5,122.4-100.6,144.2c-61,22.1-130.2,3.1-171.6-46.7
+				<path id="XMLID_240_" class="st72" d="M1157.8,11355.7c-0.3,63.5-40.5,122.4-100.6,144.2c-61,22.1-130.2,3.1-171.6-46.7
 					c-41.1-49.6-45.9-122.3-12.5-177.2c33.2-54.5,98.8-83.6,161.5-70.8c62.6,12.7,111.4,64,121.5,127
-					C1157.9,11783.9,1158.4,11791.8,1158.4,11799.7c0,9.6,15,9.7,15,0c-0.3-70.4-44.9-134.1-111-158.4
+					C1157.3,11339.9,1157.8,11347.8,1157.8,11355.7c0,9.7,15,9.7,15,0c-0.3-70.4-44.9-134.1-111-158.4
 					c-66.1-24.3-143.2-3.1-187.7,51.4c-44.7,54.8-50.9,133.7-14,194.3c36.7,60.3,108.6,91.6,177.8,77.8
-					c67.6-13.5,122.1-70.1,132.7-138.3c1.4-8.9,2.1-17.9,2.2-26.9C1173.5,11790,1158.5,11790,1158.4,11799.7z"/>
+					c67.6-13.5,122.1-70.1,132.7-138.3c1.4-8.9,2.1-17.9,2.2-26.9C1172.9,11346,1157.9,11346,1157.8,11355.7z"/>
 			</g>
 		</g>
-		<path id="straw" class="st12" d="M926.8,11670.7l70.7,25.9c0,0,9-2.5,13.4,15.9c4.5,18.4,63.7,224.9,63.7,224.9s8.3,0.7,8.3-4.8
-			l-67-231.1c0,0-0.2-8-11.1-12c-10.8-4-74.6-27.6-74.6-27.6S926.8,11665.7,926.8,11670.7z"/>
+		<path id="straw" class="st12" d="M926.2,11226.7l70.7,25.9c0,0,9-2.5,13.4,15.9c4.5,18.4,63.7,224.9,63.7,224.9s8.3,0.7,8.3-4.8
+			l-67-231.1c0,0-0.2-8-11.1-12c-10.8-4-74.6-27.6-74.6-27.6S926.2,11221.7,926.2,11226.7z"/>
 		<g id="XMLID_215_">
 			<g id="XMLID_241_">
-				<path id="XMLID_245_" class="st64" d="M911,11929.4c20.9-28.8,41.7-57.5,62.6-86.3c33.2-45.8,66.5-91.7,99.7-137.5
+				<path id="XMLID_245_" class="st72" d="M910.4,11485.4c20.9-28.8,41.7-57.5,62.6-86.3c33.2-45.8,66.5-91.7,99.7-137.5
 					c7.6-10.5,15.2-21,22.8-31.5c2.4-3.3,0.5-8.3-2.7-10.3c-3.8-2.3-7.9-0.6-10.3,2.7c-20.9,28.8-41.7,57.5-62.6,86.3
 					c-33.2,45.8-66.5,91.7-99.7,137.5c-7.6,10.5-15.2,21-22.8,31.5c-2.4,3.3-0.5,8.3,2.7,10.3
-					C904.5,11934.3,908.6,11932.6,911,11929.4L911,11929.4z"/>
+					C903.9,11490.3,908,11488.6,910.4,11485.4L910.4,11485.4z"/>
 			</g>
 		</g>
 	</g>
-	<rect id="XMLID_216_" x="61.7" y="11996" class="st21" width="333.8" height="26.9"/>
-	<text id="XMLID_217_" transform="matrix(1 0 0 1 75.4547 12014.1553)" class="st22 st41">Use a reusable water-botttle</text>
-	<rect id="XMLID_219_" x="477.5" y="11996" class="st21" width="333.8" height="93.6"/>
-	<text id="XMLID_218_" transform="matrix(1 0 0 1 545.661 12014.1553)"><tspan x="0" y="0" class="st22 st41">Use reusable bags </tspan><tspan x="-59.6" y="30" class="st22 st41">(these are super cheap at any </tspan><tspan x="20.2" y="60" class="st22 st41">grocery store!)</tspan></text>
-	<rect id="XMLID_222_" x="838" y="11996" class="st21" width="333.8" height="26.9"/>
-	<text id="XMLID_220_" transform="matrix(1 0 0 1 869.3224 12014.1553)" class="st22 st41">Stop using plastic straws!</text>
-	<rect id="XMLID_225_" x="144.6" y="12146.7" class="st21" width="999.6" height="103.3"/>
-	<text id="XMLID_224_" transform="matrix(1 0 0 1 167.9387 12165.6299)"><tspan x="0" y="0" class="st46 st65 st52">There are so many more things we can do to help our planet but here </tspan><tspan x="15.2" y="45" class="st46 st65 st52">are 3 of the simplest ways.  Try implementing these into your days.</tspan></text>
+	<rect id="XMLID_216_" x="61.1" y="11552" class="st21" width="333.8" height="26.9"/>
+	<text id="XMLID_217_" transform="matrix(1 0 0 1 74.8534 11570.1611)" class="st22 st23">Use a reusable water-botttle</text>
+	<rect id="XMLID_219_" x="476.9" y="11552" class="st21" width="333.8" height="93.6"/>
+	<text id="XMLID_218_" transform="matrix(1 0 0 1 545.0597 11570.1611)"><tspan x="0" y="0" class="st22 st23">Use reusable bags </tspan><tspan x="-59.6" y="30" class="st22 st23">(these are super cheap at any </tspan><tspan x="20.2" y="60" class="st22 st23">grocery store!)</tspan></text>
+	<rect id="XMLID_222_" x="837.4" y="11552" class="st21" width="333.8" height="26.9"/>
+	<text id="XMLID_220_" transform="matrix(1 0 0 1 868.7211 11570.1611)" class="st22 st23">Stop using plastic straws!</text>
+	<rect id="XMLID_225_" x="144" y="11702.7" class="st21" width="999.6" height="103.3"/>
+	<text id="XMLID_224_" transform="matrix(1 0 0 1 167.3374 11721.6357)"><tspan x="0" y="0" class="st42 st73 st43">There are so many more things we can do to help our planet but here </tspan><tspan x="15.2" y="45" class="st42 st73 st43">are 3 of the simplest ways.  Try implementing these into your days.</tspan></text>
 </g>
 <g id="ourPlanet">
-	<path id="background_1_" class="st0" d="M1281.2,12385.7c0,0-31.9,3.4-70.9-15.6c-39-19-98.6-32.6-173.1,0
-		c-74.5,32.6-153.3-1.2-153.3-1.2s-64.6-37.2-163.2,0s-155-0.2-155-0.2s-60.4-45.6-164.8,0.2c-104.5,45.8-164.8-1.8-164.8-1.8
-		s-73.3-41.1-147.1-2.9c-73.8,38.2-90.3,24.8-90.3,24.8v996.5c0,0,34.4,7.9,90.3-24.8s129.6-6.9,147.1,2.9s74.6,41.2,164.8,1.8
-		s140-10.5,164.8-0.2c24.8,10.4,69.5,31.3,155,0.2c85.5-31.1,114.8-12.8,163.2,0c48.4,12.8,63,31.5,153.3,1.2
-		c90.3-30.3,114-26.1,173.1,0c59,26.1,70.9,15.6,70.9,15.6V12385.7z"/>
-	<rect id="XMLID_123_" x="81.3" y="12754.5" class="st21" width="1148.9" height="374.3"/>
-	<text id="XMLID_223_" transform="matrix(1 0 0 1 270.0393 12818.7812)"><tspan x="0" y="0" class="st12 st24 st6 st47">IT’S OUR PLANET.  </tspan><tspan x="-160.9" y="120" class="st12 st24 st6 st47">LET’S SAVE IT TOGETHER</tspan></text>
-	<g id="starfish">
-		<path id="XMLID_267_" class="st64" d="M1059.1,13118.9c0,0,25.7-29.5,26.8-93.9c0,0,5.6-36.6,25.2,28.4c1.4,4.5,2.8,9.5,4.3,15
+	<path id="background_3_" class="st0" d="M1280.6,11941.7c0,0-31.9,3.4-70.9-15.6c-39-19-98.6-32.6-173.1,0s-153.3-1.2-153.3-1.2
+		s-64.6-37.2-163.2,0s-155-0.2-155-0.2s-60.4-45.6-164.8,0.2c-104.5,45.8-164.8-1.8-164.8-1.8s-73.3-41.1-147.1-2.9
+		s-90.3,24.8-90.3,24.8v996.5c0,0,34.4,7.9,90.3-24.8s129.6-6.9,147.1,2.9s74.6,41.2,164.8,1.8c90.2-39.5,140-10.5,164.8-0.2
+		c24.8,10.4,69.5,31.3,155,0.2s114.8-12.8,163.2,0c48.4,12.8,63,31.5,153.3,1.2c90.3-30.3,114-26.1,173.1,0
+		c59,26.1,70.9,15.6,70.9,15.6V11941.7z"/>
+	<rect id="XMLID_261_" x="80.7" y="12310.5" class="st21" width="1148.9" height="374.3"/>
+	<text id="XMLID_260_" transform="matrix(1 0 0 1 269.438 12374.7871)"><tspan x="0" y="0" class="st12 st24 st6 st50">IT’S OUR PLANET.  </tspan><tspan x="-160.9" y="120" class="st12 st24 st6 st50">LET’S SAVE IT TOGETHER</tspan></text>
+	<g id="starfish_1_">
+		<path id="XMLID_259_" class="st72" d="M1058.5,12674.9c0,0,25.7-29.5,26.8-93.9c0,0,5.6-36.6,25.2,28.4c1.4,4.5,2.8,9.5,4.3,15
 			c0,0,7.5,14.5-4.8,60.1c0,0,76.2,8,89.6,15.6c13.4,7.5,13.9,9.1,13.4,13.9c-0.5,4.8-9.1,9.7-25.2,9.7c-16.1,0-80.4,2.7-82.1,13.9
-			c-1.6,11.3,17.7,59,24.7,68.6c7,9.7,22.7,41.4,5.4,35.2s-58.5-55.6-68.7-74.9c0,0-23.6,9.1-55.8,43.4
-			c-32.2,34.3-34.3,19.2-34.3,19.2s-2.7-13.3,23.1-57.2c25.7-44,36.5-53.1,24.7-65.4c-11.8-12.3-53.1-50.9-53.1-50.9
-			s-30.6-26.8-13.4-26.8C976,13072.8,1047.8,13103.3,1059.1,13118.9z"/>
-		<circle id="XMLID_266_" cx="1061.8" cy="13142.5" r="5.9"/>
-		<circle id="XMLID_265_" cx="1086.7" cy="13150.5" r="5.9"/>
-		<path id="XMLID_167_" class="st25" d="M1059.6,13156.9c-6,16.5,11.7,23.5,18.8,12.3"/>
+			c-1.6,11.3,17.7,59,24.7,68.6c7,9.7,22.7,41.4,5.4,35.2s-58.5-55.6-68.7-74.9c0,0-23.6,9.1-55.8,43.4s-34.3,19.2-34.3,19.2
+			s-2.7-13.3,23.1-57.2c25.7-44,36.5-53.1,24.7-65.4c-11.8-12.3-53.1-50.9-53.1-50.9s-30.6-26.8-13.4-26.8
+			C975.4,12628.8,1047.2,12659.3,1058.5,12674.9z"/>
+		<circle id="XMLID_258_" cx="1061.2" cy="12698.5" r="5.9"/>
+		<circle id="XMLID_257_" cx="1086.1" cy="12706.5" r="5.9"/>
+		<path id="XMLID_256_" class="st25" d="M1059,12713c-6,16.5,11.7,23.5,18.8,12.3"/>
 	</g>
-	<g id="octopus">
-		<path id="XMLID_268_" class="st8" d="M188.2,13099.3c0,0-14.9-20-14.4-37c0.5-16.9,4.6-33.9,9.8-44.2c5.1-10.3,19-27.7,41.6-37.5
+	<g id="octopus_1_">
+		<path id="XMLID_255_" class="st8" d="M187.6,12655.3c0,0-14.9-20-14.4-37s4.6-33.9,9.8-44.2c5.1-10.3,19-27.7,41.6-37.5
 			c22.6-9.8,47.8-3.6,47.8-3.6s23.1,5.6,36.5,21.6c13.3,15.9,17.4,17.9,21.6,36.5c3.8,16.6,6.6,28.4,0,45.2
-			c-6.3,16-7.7,15.4-7.7,15.4s7.7,18.5,24.6,18.5s45.7,1.5,37-27.2s-28.8-56.5-22.6-85.7c6.2-29.3,30.8-22.1,30.8-22.1
-			s14.9,4.1,21.6,18.5c0,0-26.8-14.9-33.6-5.9c-5.5,7.4-0.1,10.2,10.5,29.5c9.8,17.9,21.5,45.5,21.5,45.5s10.5,22,6.4,38.5
-			c-4.1,16.4-13.5,28-33,34.6c-19.5,6.7-46.7,10.3-68.5-8.7c0,0,11.5,19.7,31,22.3c1.3,0.2,2.6,0.4,3.8,0.7c3.8,0.9,13,2.4,24.7,1.1
-			c3.5-0.4,6.8-2,9.2-4.6c6.8-7,23-21.9,38.3-21.1c20,1,31.2,12,32.9,18.5c1.7,6.6,4.1,16.9-4.6,24.1c0,0,1.5-28.2-15.9-29.3
-			c-14-0.8-22.9,9.9-28.4,14.6c-2.5,2.1-3.8,3.5-6.3,5.9c-2.9,2.9-10.2,8.5-20.6,11.7c-22.8,6.9-72.1-14.6-72.1-14.6
-			s18.4,34.9,56,41.6c31.3,5.6,62.9-4.3,57.5-16c-6.2-13.5-9.2-15.9-9.2-15.9s22.5,13,20,26.6c-3.2,17.6-32.9,33-61.6,31.4
+			c-6.3,16-7.7,15.4-7.7,15.4s7.7,18.5,24.6,18.5s45.7,1.5,37-27.2s-28.8-56.5-22.6-85.7s30.8-22.1,30.8-22.1s14.9,4.1,21.6,18.5
+			c0,0-26.8-14.9-33.6-5.9c-5.5,7.4-0.1,10.2,10.5,29.5c9.8,17.9,21.5,45.5,21.5,45.5s10.5,22,6.4,38.5c-4.1,16.4-13.5,28-33,34.6
+			c-19.5,6.7-46.7,10.3-68.5-8.7c0,0,11.5,19.7,31,22.3c1.3,0.2,2.6,0.4,3.8,0.7c3.8,0.9,13,2.4,24.7,1.1c3.5-0.4,6.8-2,9.2-4.6
+			c6.8-7,23-21.9,38.3-21.1c20,1,31.2,12,32.9,18.5c1.7,6.6,4.1,16.9-4.6,24.1c0,0,1.5-28.2-15.9-29.3c-14-0.8-22.9,9.9-28.4,14.6
+			c-2.5,2.1-3.8,3.5-6.3,5.9c-2.9,2.9-10.2,8.5-20.6,11.7c-22.8,6.9-72.1-14.6-72.1-14.6s18.4,34.9,56,41.6
+			c31.3,5.6,62.9-4.3,57.5-16c-6.2-13.5-9.2-15.9-9.2-15.9s22.5,13,20,26.6c-3.2,17.6-32.9,33-61.6,31.4
 			c-28.8-1.5-57.5-15.4-71.4-25.7c0,0,26,52.7,10.1,77.3c0,0-7.3,17.7-37.3,15.6c-30.1-2.1-32.3-22.1-32.9-29.3
 			c0,0,11.3,13.9,29.8,13.9c0,0,26.2-2.6,19-21.1c0,0-7.7-27.2-20-46.2c-12.3-19-14.9-25.2-14.9-25.2s-6.7,38.5-15.4,52.4
 			c-6,9.5-16.1,24.7-21.9,33.5c-3.3,5-4.8,11-4.1,17c0.8,7.2,3.1,16.7,9,23.5c0,0-37.4-5.7-23.6-39.5c0,0,29.3-49.3,23.6-84.7
-			c0,0-27.7,21.1-59.6,25.2c0,0-30.9,2.4-34.5,18.8c-3.3,14.6,24.8,33.6,44.8,16.7c20-16.9,26.2-25.2,26.2-25.2s-5.1,26.2-16.9,37.5
+			c0,0-27.7,21.1-59.6,25.2c0,0-30.9,2.4-34.5,18.8c-3.3,14.6,24.8,33.6,44.8,16.7s26.2-25.2,26.2-25.2s-5.1,26.2-16.9,37.5
 			c-11.8,11.3-26.5,18.3-47.2,10.8c0,0-30.6-8.6-30-50.8c0.1-3.4,1-6.8,2.7-9.8c5.1-8.9,18.9-26.3,49.4-28.2
 			c23.7-1.5,31.4-4.6,37.8-9.8c3.8-3.1,13.1-11.6,13.6-16.4l7.4-21.3c0,0-28,38-70.6,38.6s-82.8-28.5-83.7-51.4
 			c-1.3-33.9,3.7-39.3,25.2-59.3c0,0-20,45.7-3.6,62.6c16.4,16.9,34.9,20.5,34.9,20.5s22.6,7.7,46.7-5.6c0,0,16.4-6.2,22.6-14.9
 			c0,0-32.3,25.2-59,6.2c-26.7-19-27.7-46.2-20-72.4c3.4-11.5,6.9-20.4,7.6-25.8c0.7-6.5-5.9-11.6-12.3-12.3
 			c-4.3-0.4-9.7,0.1-15.8,3.2c0,0-0.5-20.9,21.1-20.7c2.2,0,4.2,0.2,6,0.5c12.9,2.1,22.2,13.7,21.9,26.8c-0.2,8.8-1.2,22-4.8,36.6
-			c-6.1,24.5,20.5,42.1,20.5,42.1S178.4,13121.4,188.2,13099.3z"/>
-		<circle id="XMLID_272_" cx="239.6" cy="13056" r="5.9"/>
-		<circle id="XMLID_271_" cx="260.5" cy="13047.4" r="5.9"/>
-		<path id="XMLID_269_" class="st25" d="M235.1,13077c19.5,27.8,50.1,7.7,40.4-16.1"/>
+			c-6.1,24.5,20.5,42.1,20.5,42.1S177.8,12677.4,187.6,12655.3z"/>
+		<circle id="XMLID_254_" cx="239" cy="12612" r="5.9"/>
+		<circle id="XMLID_253_" cx="259.9" cy="12603.4" r="5.9"/>
+		<path id="XMLID_252_" class="st25" d="M234.5,12633c19.5,27.8,50.1,7.7,40.4-16.1"/>
 	</g>
-	<g id="earth_2_">
-		<circle id="XMLID_276_" class="st61" cx="1067.7" cy="12593.9" r="144.6"/>
-		<path id="XMLID_275_" class="st20" d="M1211.6,12588.5c0,0-2.2-55.5-33.3-87.7c-5.2-5.3-25.6-23.8-25.6-23.8l-19.5,14l-9.4-2.6
+	<g id="earth_3_">
+		<circle id="XMLID_251_" class="st59" cx="1067.1" cy="12149.9" r="144.6"/>
+		<path id="XMLID_250_" class="st20" d="M1211,12144.5c0,0-2.2-55.5-33.3-87.7c-5.2-5.3-25.6-23.8-25.6-23.8l-19.5,14l-9.4-2.6
 			l3.6,9.9l20.3,3.1l8.8,9.9l3.1,9.4l-15.1,22.3l24.4,2.6l10.4-4.2l5.2,4.2l3.1-2.6l3.6,8.8l-21.3,13l-6.2-2.6l-8.3,2.6h-10.4
 			l-14.5,10.9l8.3,24.9l-3.6,2.2l6.2,9.8l11.4,3.6l7.3,9.4l11.9-3.6l7.8,9.4l-6.2,34.8l-8.3,13l7.7,13.9l21.9-30.4
 			c0,0,19.3-39.9,16.4-62"/>
-		<polygon id="XMLID_274_" class="st20" points="960.5,12496.9 977,12514.3 966.1,12514.3 956.7,12522.6 958.8,12536.6 
-			952.6,12554.3 970.2,12586.5 977,12604.7 985.8,12613.5 985.8,12622.9 1019.1,12627.6 1030,12632.2 1030,12635.9 1037.8,12639 
-			1037.8,12635.4 1031.6,12628.6 1037.8,12622.4 1035.7,12614 1029,12620.8 1019.6,12618.7 1005.1,12593.9 1008.2,12579.2 
-			1026.9,12576.1 1035.2,12579.2 1046.6,12573.5 1054.4,12589.1 1058,12588.6 1060.1,12577.2 1053.4,12560.5 1056.5,12546 
-			1056.5,12529.4 1065.3,12510.1 1077.8,12503.9 1080.9,12492 1077.3,12483.1 1058.6,12486.8 1053.4,12493.5 1040.4,12485.7 
-			1040.4,12476.9 1022.2,12481.6 994.7,12480 991.5,12476.9 982.1,12477.3 		"/>
-		<polygon id="XMLID_273_" class="st20" points="1039.6,12634.5 1039.6,12649.5 1029.4,12656 1029.4,12668.8 1036.2,12671.8 
-			1039.6,12676.3 1051.2,12683.8 1060.3,12704.5 1060.3,12721.1 1065.2,12735.5 1071.9,12732.8 1069.7,12727.9 1077.2,12710.2 
-			1102.8,12688.3 1115.3,12669.9 1118.3,12659 1114.5,12654.1 1108.5,12655.2 1091.2,12646.9 1090,12643.1 1073.8,12641.6 
-			1059.9,12631.5 1047.8,12634.5 		"/>
-		<circle id="XMLID_279_" cx="1080.3" cy="12587.9" r="5.9"/>
-		<circle id="XMLID_278_" cx="1105.3" cy="12595.8" r="5.9"/>
-		<path id="XMLID_168_" class="st25" d="M1072.6,12596.9c-5.5,23.8,20,30.5,28,13.9"/>
+		<polygon id="XMLID_249_" class="st20" points="959.9,12052.9 976.4,12070.3 965.5,12070.3 956.1,12078.6 958.2,12092.6 
+			952,12110.3 969.6,12142.5 976.4,12160.7 985.2,12169.5 985.2,12178.9 1018.5,12183.6 1029.4,12188.2 1029.4,12191.9 
+			1037.2,12195 1037.2,12191.4 1030.9,12184.6 1037.2,12178.4 1035.1,12170.1 1028.4,12176.8 1019,12174.7 1004.5,12149.9 
+			1007.6,12135.2 1026.3,12132.1 1034.6,12135.2 1046,12129.5 1053.8,12145.1 1057.4,12144.6 1059.5,12133.2 1052.8,12116.5 
+			1055.9,12102 1055.9,12085.4 1064.7,12066.1 1077.2,12059.9 1080.3,12048 1076.7,12039.1 1058,12042.8 1052.8,12049.5 
+			1039.8,12041.7 1039.8,12032.9 1021.6,12037.6 994.1,12036 990.9,12032.9 981.5,12033.4 		"/>
+		<polygon id="XMLID_248_" class="st20" points="1039,12190.5 1039,12205.6 1028.8,12212 1028.8,12224.8 1035.6,12227.8 
+			1039,12232.3 1050.6,12239.8 1059.7,12260.5 1059.7,12277.1 1064.6,12291.5 1071.3,12288.8 1069.1,12283.9 1076.6,12266.2 
+			1102.2,12244.4 1114.7,12225.9 1117.7,12215 1113.9,12210.1 1107.9,12211.2 1090.6,12202.9 1089.4,12199.2 1073.2,12197.6 
+			1059.3,12187.5 1047.2,12190.5 		"/>
+		<circle id="XMLID_247_" cx="1079.7" cy="12143.9" r="5.9"/>
+		<circle id="XMLID_157_" cx="1104.7" cy="12151.8" r="5.9"/>
+		<path id="XMLID_154_" class="st25" d="M1072,12152.9c-5.5,23.8,20,30.5,28,13.9"/>
 	</g>
-	<text id="XMLID_280_" transform="matrix(1 0 0 1 25.3751 13537.8838)" class="st24 st37 st38">REFERENCES</text>
-	<rect id="XMLID_295_" x="31.7" y="13587.6" class="st21" width="1225.3" height="282.1"/>
-	<text id="XMLID_294_" transform="matrix(1 0 0 1 31.7147 13606.4609)"><tspan x="0" y="0" class="st22 st65 st52">https://get-green-now.com/environmental-impact-plastic-straws/ </tspan><tspan x="0" y="45" class="st22 st65 st52">https://www.strawlessocean.org/faq/ </tspan><tspan x="0" y="90" class="st22 st65 st52">https://get-green-now.com/environmental-impact-plastic-straws/</tspan><tspan x="0" y="135" class="st22 st65 st52">https://earther.gizmodo.com/just-how-big-is-the-great-pacif</tspan><tspan x="821.7" y="135" class="st22 st65 st52">-</tspan><tspan x="0" y="180" class="st22 st65 st52">ic-garbage-patch-1825116026</tspan><tspan x="0" y="225" class="st22 st65 st52">https://www.nationalgeographic.org/encyclopedia/great-pacific-garbage-patch/</tspan></text>
+	<text id="XMLID_152_" transform="matrix(1 0 0 1 24.7738 13093.8896)" class="st24 st37 st38">REFERENCES</text>
+	<rect id="XMLID_147_" x="31.1" y="13143.6" class="st21" width="1225.3" height="282.1"/>
+	<text id="XMLID_146_" transform="matrix(1 0 0 1 31.1134 13162.4658)"><tspan x="0" y="0" class="st22 st73 st43">https://get-green-now.com/environmental-impact-plastic-straws/ </tspan><tspan x="0" y="45" class="st22 st73 st43">https://www.strawlessocean.org/faq/ </tspan><tspan x="0" y="90" class="st22 st73 st43">https://get-green-now.com/environmental-impact-plastic-straws/</tspan><tspan x="0" y="135" class="st22 st73 st43">https://earther.gizmodo.com/just-how-big-is-the-great-pacif</tspan><tspan x="821.7" y="135" class="st22 st73 st43">-</tspan><tspan x="0" y="180" class="st22 st73 st43">ic-garbage-patch-1825116026</tspan><tspan x="0" y="225" class="st22 st73 st43">https://www.nationalgeographic.org/encyclopedia/great-pacific-garbage-patch/</tspan></text>
 </g>
 </svg>
-
-</body>
-</html>

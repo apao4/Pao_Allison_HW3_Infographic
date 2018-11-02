@@ -1,0 +1,29 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: #0CB1C4;
+    animation-name: spin;
+    
+  }
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+#gpgpSpirals
+{
+    animation-name: spin;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    transform-origin: 50% 16%;
+    animation-timing-function: linear; 
+    /* transform: rotate(3deg); */
+     /* transform: rotate(0.3rad);/ */
+     /* transform: rotate(3grad); */ 
+     /* transform: rotate(.03turn);  */
+}

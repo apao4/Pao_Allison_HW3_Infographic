@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /*!
  * animate.css -http://daneden.me/animate
  * Version - 3.7.0
@@ -2428,13 +2427,35 @@
     animation: unset !important;
     -webkit-transition: none !important;
     transition: none !important; } }
+div {
+  width: 100px;
+  height: 100px;
+  background-color: #0CB1C4;
+  animation-name: spin; }
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+#gpgpSpirals {
+  animation-name: spin;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 16%;
+  animation-timing-function: linear;
+  /* transform: rotate(3deg); */
+  /* transform: rotate(0.3rad);/ */
+  /* transform: rotate(3grad); */
+  /* transform: rotate(.03turn);  */ }
+
 #octopus_1_ {
   background-color: blue; }
 
 .hide {
-      visibility: hidden; }
+  visibility: hidden; }
 
 .see {
-    visibility: visible !important; }
+  visibility: visible !important; }
 
 /*# sourceMappingURL=main.css.map */

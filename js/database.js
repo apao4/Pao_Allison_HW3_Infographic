@@ -3,10 +3,11 @@
     const info = document.querySelectorAll('.data-ref');
 
     function getData() {
+        console.log(this);
         //let targetURL = "./includes/connect.php?modelNo=R58"; //this is the url we have open in the browser window ow //this is a hard coded link
         
         //whenever we click on a thumbnail, pass its id to the php query 
-        let targetURL = `/includes/functions.php?animal=${this.id}`; 
+        let targetURL = `/includes/functions.php?city=${this.id}`; 
 
 
         fetch(targetURL) //like telling your dog to go fetch the data from the url and bring it back! good doggy!
@@ -14,25 +15,25 @@
         .then(data => {
             console.log(data); //let's see what we got 
             //run a function to parse our data
-            showMarineFact(data[0]); //run a function to put the data on the page 
+            showStrawFact(data[0]); //run a function to put the data on the page 
             }) //lets see what we got
         .catch(function(error) {
-            console.log(error); //if anything broke, lot it in the console    
-        }); 
-    }  
+        console.log(error); //if anything broke, lot it in the console    
+    }); 
+    
 //just trying to get the information we want e.g. price. 
-    function showMarineFact(data) { //data accepting what is happening up top. 
-        //debugger; comment out after bc you dont need to see what you did wrong anymore
+    function showStrawFact(data) { //data accepting what is happening up top. 
+        //debugger; //comment out after bc you dont need to see what you did wrong anymore
         //parse the DB info and put it where it neds to go
-        const { animal, percent, fact } = data; //destructuring assignmnet => MDN JS destructuring 
+        const { city, state } = data; //destructuring assignmnet => MDN JS destructuring 
 
 
         //might change some of this stuff for infographic all this is AJAX
         //grab the elements we need, and populate them with data
-        document.querySelector('.animal').textContent = animal; //will have three of these lines except with the selector in the quotes
-        document.querySelector('.percent').textContent = percent;
-        document.querySelector('.fact').textContent = fact;
+        document.querySelector('.city').textContent = city; //will have three of these lines except with the selector in the quotes
+        document.querySelector('.state').textContent = state;
     }
+};
 
     info.forEach(info => info.addEventListener('click', getData));
 

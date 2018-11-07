@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "root"; //leave this blank for windows users. should look like $password = "";
-$db = "marine-life"; //this is the name of the database we made on myPHPadmin. no we are going to write a connect script and see if it works
+$db = "plasticStraws"; //this is the name of the database we made on myPHPadmin. no we are going to write a connect script and see if it works
 
 $conn = mysqli_connect($host, $user, $password, $db); //putting in the variables in order
 
@@ -24,10 +24,10 @@ if (!$conn) { //this is if the connection is broken
 //}
 
 //get one item from the database (so that we aren't getting all the info. just one row's)
-if (isset($_GET["animal"])) { //does it have a model number key and if it does, find me the row values that match it
-    $info = $_GET["animal"];
+if (isset($_GET["city"])) { //does it have a model number key and if it does, find me the row values that match it
+    $info = $_GET["city"];
 
-    $myQuery = "SELECT * FROM tbl_facts WHERE animal='$info'";
+    $myQuery = "SELECT * FROM tbl_straws WHERE city='$info'";
 
     $result = mysqli_query($conn, $myQuery); 
     $rows = array(); 
@@ -36,9 +36,9 @@ if (isset($_GET["animal"])) { //does it have a model number key and if it does, 
     while($row = mysqli_fetch_assoc($result)) {
       $rows[] = $row;
     }
-}
 
 
 //encode the result and send it back
 echo json_encode($rows);
+}
 ?>

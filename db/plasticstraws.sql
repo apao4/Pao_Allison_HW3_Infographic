@@ -33,18 +33,18 @@ CREATE TABLE `tbl_straws` (
 INSERT INTO `tbl_straws` (`id`, `city`, `state`) VALUES
 (1, 'Alameda', 'California'),
 (2, 'Carmel', 'California'),
-(3, 'San Luis Obispo', 'California'),
+(3, 'San-Luis-Obispo', 'California'),
 (4, 'Davis', 'California'),
 (5, 'Malibu', 'California'),
-(6, 'Manhattan Beach', 'California'),
+(6, 'Manhattan-Beach', 'California'),
 (7, 'Oakland', 'California'),
 (8, 'Richmond', 'California'),
 (9, 'Berkeley', 'California'),
 (10, 'Seattle', 'Washington'),
 (11, 'Edmonds', 'Washington'),
-(12, 'Monmouth Beach', 'New Jersey'),
-(13, 'Miami Beach', 'Florida'),
-(14, 'Fort Myers', 'Florida');
+(12, 'Monmouth-Beach', 'New Jersey'),
+(13, 'Miami-Beach', 'Florida'),
+(14, 'Fort-Myers', 'Florida');
 
 --
 -- Indexes for dumped tables

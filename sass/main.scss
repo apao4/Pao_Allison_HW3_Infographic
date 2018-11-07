@@ -1,0 +1,93 @@
+@import 'modules/vars';
+@import 'modules/animate';
+@import 'modules/gpgp';
+@import 'modules/ways';
+@import 'modules/marinelife';
+@import 'modules/header';
+
+.hide 
+{
+    visibility: hidden;
+}
+    
+.see 
+{
+    visibility: visible !important;
+}
+
+html, body
+{
+    margin: 0;
+    padding: 0;
+    margin-top: -10px;
+}
+
+	.st0-p{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1-p{fill:#FFFFFF;}
+	.st2-p{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st0{fill:#2E3192;}
+	.st1{display:none;}
+	.st2{display:inline;fill:#FFFFFF;}
+	.st3{font-family:'LemonMilk';}
+	.st4{font-size:50px;}
+	.st5{font-size:100px;}
+	.st6{font-size:85px;}
+	.st7{fill:url(#XMLID_127_);}
+	.st8{fill:#A6A9D5;}
+	.st9{fill:#FBB040;}
+	.st10{fill:#77B946;}
+	.st11{fill:#00A14B;}
+	.st12{fill:#FFFFFF;}
+	.st13{font-family:'Avenir-Light';}
+	.st14{font-size:72px;}
+	.st15{font-family:'Avenir-BlackOblique';}
+	.st16{display:inline;fill:#2E3192;}
+	.st17{display:inline;}
+	.st18{fill:#C8EAF5;}
+	.st19{fill:#662D91;}
+	.st20{fill:#00A651;}
+	.st21{fill:none;}
+	.st22{font-family:'Avenir-Roman';}
+	.st23{font-size:18px;}
+	.st24{font-family:'Avenir-Black';}
+	.st25{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st26{fill:#F4E1A5;}
+	.st27{fill:#F7D79F;}
+	.st28{fill:#8EBCE5;}
+	.st29{fill:#FFFFFF;stroke:#BCBEC0;stroke-width:2;stroke-miterlimit:10;}
+	.st30{fill:#F7941E;}
+	.st31{font-size:120px;}
+	.st32{letter-spacing:24;}
+	.st33{font-size:48px;}
+	.st34{letter-spacing:9;}
+	.st35{font-size:65px;}
+	.st36{letter-spacing:13;}
+	.st37{font-size:45px;}
+	.st38{letter-spacing:4;}
+	.st39{font-size:80px;}
+	.st40{letter-spacing:8;}
+	.st41{font-size:24px;}
+	.st42{fill:#A3DDF3;}
+	.st43{fill:#8DC63F;}
+	.st44{fill:#006838;}
+	.st45{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st46{font-family:'Avenir-Medium';}
+	.st47{letter-spacing:1;}
+	.st48{fill:#00A79D;}
+	.st49{fill:#FFDE94;}
+	.st50{fill:#21409A;}
+	.st51{fill:#00AEEF;}
+	.st52{letter-spacing:2;}
+	.st53{fill:#E6E7E8;}
+	.st54{font-size:28px;}
+	.st55{font-size:30px;}
+	.st56{letter-spacing:3;}
+	.st57{fill:#754C29;}
+	.st58{fill:#009444;}
+	.st59{letter-spacing:16;}
+	.st60{fill:#054F9C;}
+	.st61{fill:#1C75BC;}
+	.st62{fill:#AFD0D8;}
+	.st63{fill:#7F3F98;}
+	.st64{fill:#ED1C24;}
+	.st65{font-size:25px;}

@@ -7,7 +7,7 @@
         //let targetURL = "./includes/connect.php?modelNo=R58"; //this is the url we have open in the browser window ow //this is a hard coded link
         
         //whenever we click on a thumbnail, pass its id to the php query 
-        let targetURL = `/includes/functions.php?city=${this.id}`; 
+        let targetURL = `./includes/functions.php?city=${this.id}`; 
 
 
         fetch(targetURL) //like telling your dog to go fetch the data from the url and bring it back! good doggy!
@@ -30,7 +30,7 @@
 
         //might change some of this stuff for infographic all this is AJAX
         //grab the elements we need, and populate them with data
-        document.querySelector('.city').textContent = city; //will have three of these lines except with the selector in the quotes
+        document.querySelector('.city1').textContent = city; //will have three of these lines except with the selector in the quotes
         document.querySelector('.state').textContent = state;
     }
 };
